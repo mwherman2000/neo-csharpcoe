@@ -1,7 +1,7 @@
 # neo-csharpcoe - The Economic Graph
 NEO Blockchain C# Center of Excellence
 
-The `neo-economicgraph` project is TODO using .NET/C# and C#.NEO and the NEO Blockchain software platform.
+The `neo-economicgraph` project is TODO using .NET/C#, C#.NEO and the NEO Blockchain software platform.
 
 This independent, open source project is 100% community-supported by people like yourself through your contributions of time, energy, passion, promotion, and donations.  To learn more about contributing to this project or any of the `neo-csharpcoe` projects, click [here](https://github.com/mwherman2000/neo-csharpcoe/blob/master/CONTRIBUTE.md).
 
