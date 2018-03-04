@@ -11,7 +11,7 @@ This independent, open source project is 100% community-supported by people like
 
 >A center of excellence (CoE) is a team, a shared facility or an entity that provides leadership, best practices, research, support and/or training for a focus area. ... A center of excellence may also be aimed at revitalizing stalled initiatives. [Wikipedia](https://en.wikipedia.org/wiki/Center_of_excellence)
 
-## `neo-csharpcoe` "TOP 10" List of Resources for C#.NEO Developers
+## `neo-csharpcoe` "Top 10" List of Resources for C#.NEO Developers
 
 1. NEO Blockchain Quick Start Guide for .NET Developers ([neo-dotnetquickstart](https://github.com/mwherman2000/neo-dotnetquickstart))
 2. C#.NEO Examples ([examples-chsarp](https://github.com/mwherman2000/examples-csharp))
