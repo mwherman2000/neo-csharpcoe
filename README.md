@@ -57,7 +57,7 @@ This independent, open source project is 100% community-supported by people like
 
 * [CityOfZion@github.com](https://github.com/CityOfZion) - [neo-gui-developer](https://github.com/CityOfZion/neo-gui-developer)
 
-  * neo-gui with features for developers
+   * neo-gui with features for developers
 
 
 
