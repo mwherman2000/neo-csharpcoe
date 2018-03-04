@@ -1,5 +1,5 @@
 # neo-csharpcoe
-NEO Blockchain C# Center of Excellence
+NEO Blockchain C# Developer Center of Excellence
 
 The `neo-csharpcoe` project is the banner project for several initiatives related to providing tools and libraries (code), frameworks, how-to documentation, and best practices for full-stack development using .NET/C# and C#.NEO and the NEO Blockchain software platform.
 
