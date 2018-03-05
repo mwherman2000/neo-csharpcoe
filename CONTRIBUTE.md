@@ -1,6 +1,6 @@
 # neo-csharpcoe - contributions
 
-NEO Blockchain C# Center of Excellence
+[NEO Blockchain C# Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)
 
 How to contribute your time, energy, passion, promotion, and donations to the `neo-csharpcoe`.
 
