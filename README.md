@@ -22,7 +22,7 @@ To learn more about contributing to the `neo-csharpcoe`, click [here](https://gi
 5. C#.NEO Smart Contract Developers Guide ([neo-csguide](https://github.com/mwherman2000/neo-csguide))
 6. NEO Blockchain Architecture Reference Model (ARM) for .NET Developers ([neo-charm](https://github.com/mwherman2000/neo-charm))
 7. NEO Persistable Class (NPC) Compiler ([neo-npcc](https://github.com/mwherman2000/neo-npcc))
-8. NEO Persistable Classes V2.0 - An Efficient Object-Oriented Framework for C#.NEO Smart Contract Development ([neo-persistableclasses](https://github.com/mwherman2000/neo-persistableclasses))
+8. [NEO System Fees Table](http://docs.neo.org/en-us/sc/systemfees.html)
 9. NEO Persistable Classes V1.0 - An Efficient Object-Oriented Framework for C#.NEO Smart Contract Development ([neo-persistibleclasses](https://github.com/mwherman2000/neo-persistibleclasses))
 10. NEO Blockchain Toronto Meetup/Facebook/Twitter Bootstrap Kit ([neo-meetupbootstrap](https://github.com/mwherman2000/neo-meetupbootstrap))
 
