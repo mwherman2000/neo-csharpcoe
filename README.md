@@ -87,7 +87,9 @@ To learn more about contributing to the `neo-csharpcoe`, click [here](https://gi
 
 * [deanpress@github.com](https://github.com/deanpress) - [neosense](https://github.com/deanpress/neosense)
 
-   * Tokyo meetup demo
+   * Tokyo meetup demo (python)
 
+* [neoauth@github](https://github.com/neoauth) - [neo-local](https://github.com/neoauth/neo-local)
 
+   * Tokyo meetup demo (python)
 
