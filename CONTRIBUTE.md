@@ -1,4 +1,4 @@
-# neo-csharpcoe
+# neo-csharpcoe - contributions
 
 NEO Blockchain C# Center of Excellence
 
