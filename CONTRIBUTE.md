@@ -51,13 +51,15 @@ If the `neo-csharpcoe` saved:
 * Your project 100 hours of time and energy meeting an important deadline, or
 * Your company or organization a 1000 hours of time of time, energy and other resources,
 
-...consider donating the value of a *portion* of the time, energy, and other potentially wasted resources you, your project or your organization saved to `neo-csharpcoe`.
+...consider donating the value of a *portion* of the time, energy, and other potentially wasted resources you, your project or your organization saved because of the tools and libraries (code), frameworks, how-to documentation, and best practices you found on the `neo-csharpcoe`.
 
 | Size | Time Saved | Suggested Donation |
 | ---- | ---------- | ------------------ |
 | Yourself | 10 hours | Value of 1 hour of your time (10%) |
 | Your Project | 100 hours | Value of 10 hours of your project's time (10%) |
-| Yiur Organization | 1000 hours | Value of 100 hours of your orgnaization's time (10%) |
+| Your Organization | 1000 hours | Value of 100 hours of your orgnaization's time (10%) |
+
+## Where to donate
 
 **Ether:** `0x761e2bC35e59f1399E81ED0780e6757DC4001f60`
 
@@ -65,7 +67,7 @@ If the `neo-csharpcoe` saved:
 
 **PayPal:** `mwherman@parallelspace.net` on [http://www.paypal.com](http://www.paypal.com)
 
-(All donations are segregated into a separate `neo-csharpcoe` account.)
+(All donations are segregated into a separate `neo-csharpcoe` accounts.)
 
 ## Thank you
 
