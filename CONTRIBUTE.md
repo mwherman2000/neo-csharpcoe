@@ -61,11 +61,11 @@ If the `neo-csharpcoe` saved:
 
 ## Where to donate
 
-**Ether:** `0x761e2bC35e59f1399E81ED0780e6757DC4001f60`
-
-**NEO/Gas:** `AXkGHLyg6qrFvEKzpoQN5x7Af4HKEkm5Tt`
-
-**PayPal:** `mwherman@parallelspace.net` on [http://www.paypal.com](http://www.paypal.com)
+| Where | Address |
+| ----- | ------- |
+|**Ether** | `0x761e2bC35e59f1399E81ED0780e6757DC4001f60` |
+| **NEO/Gas:** | `AXkGHLyg6qrFvEKzpoQN5x7Af4HKEkm5Tt` |
+| **PayPal:** | `mwherman@parallelspace.net` on [http://www.paypal.com](http://www.paypal.com)|
 
 (All donations are segregated into separate `neo-csharpcoe` accounts.)
 
