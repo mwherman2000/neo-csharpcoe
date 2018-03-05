@@ -28,7 +28,7 @@ To learn more about contributing to the `neo-csharpcoe`, click [here](https://gi
 
 ## Keys
 
-* NEO privatenet (docker image) WIF key: `KxDgvEKzgSBPPfuVfw67oPQBSjidEiqTHURKSDL1R7yGaGYAeYnr`
+* NEO privatenet (docker image) WIF key: `KxDgvEKzgSBPPfuVfw67oPQBSjidEiqTHURKSDL1R7yGaGYAeYnr` [Reference](https://github.com/mwherman2000/neo-dotnetquickstart/blob/master/EN-us/09-deploytestsmartcontract.md) Step. 15.
 
 ## Goals
 
