@@ -26,6 +26,10 @@ To learn more about contributing to the `neo-csharpcoe`, click [here](https://gi
 9. NEO Persistable Classes V1.0 - An Efficient Object-Oriented Framework for C#.NEO Smart Contract Development ([neo-persistibleclasses](https://github.com/mwherman2000/neo-persistibleclasses))
 10. NEO Blockchain Toronto Meetup/Facebook/Twitter Bootstrap Kit ([neo-meetupbootstrap](https://github.com/mwherman2000/neo-meetupbootstrap))
 
+## Keys
+
+* NEO privatenet (docker image) WIF key: `KxDgvEKzgSBPPfuVfw67oPQBSjidEiqTHURKSDL1R7yGaGYAeYnr`
+
 ## Goals
 
 * To become the *one-stop shop* for tools and libraries (code), frameworks, how-to documentation, and best practices for full-stack development using .NET/C# and C#.NEO and the NEO Blockchain software platform.
