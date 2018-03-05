@@ -47,11 +47,11 @@ Let the whole world know.
 ## How to donate to the `neo-csharpcoe`
 
 If the `neo-csharpcoe` saved...
-* You 10 hours of potentially wasted time search for a solution to a probem or a new requirement,
+* You 10 hours of potentially wasted time searching for a solution to a probem or a new requirement,
 * Your project 100 hours of time and energy meeting an important deadline, or
-* Your company or organization a 1000 hours of time of time, energy and other resources,
+* Your company or organization a 1000 hours of time, energy and other resources,
 
-...consider donating the value of a *portion* of the time, energy, and other potentially wasted resources you, your project or your organization saved because of the tools and libraries (code), frameworks, how-to documentation, and best practices you found on the `neo-csharpcoe`.
+...consider donating the value of a *portion* of the time, energy, and other potentially wasted resources that you, your project or your organization saved because of the tools and libraries (code), frameworks, how-to documentation, and best practices you found on the `neo-csharpcoe`.
 
 | Size | Time Saved | Suggested Donation |
 | ---- | ---------- | ------------------ |

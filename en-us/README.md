@@ -22,9 +22,33 @@ To learn more about contributing to the `neo-csharpcoe`, click [here](https://gi
 5. C#.NEO Smart Contract Developers Guide ([neo-csguide](https://github.com/mwherman2000/neo-csguide))
 6. NEO Blockchain Architecture Reference Model (ARM) for .NET Developers ([neo-charm](https://github.com/mwherman2000/neo-charm))
 7. NEO Persistable Class (NPC) Compiler ([neo-npcc](https://github.com/mwherman2000/neo-npcc))
-8. NEO Persistable Classes V2.0 - An Efficient Object-Oriented Framework for C#.NEO Smart Contract Development ([neo-persistableclasses](https://github.com/mwherman2000/neo-persistableclasses))
+8. [NEO System Fees Table](http://docs.neo.org/en-us/sc/systemfees.html)
 9. NEO Persistable Classes V1.0 - An Efficient Object-Oriented Framework for C#.NEO Smart Contract Development ([neo-persistibleclasses](https://github.com/mwherman2000/neo-persistibleclasses))
 10. NEO Blockchain Toronto Meetup/Facebook/Twitter Bootstrap Kit ([neo-meetupbootstrap](https://github.com/mwherman2000/neo-meetupbootstrap))
+
+## Keys
+
+* NEO privatenet (docker image) WIF key: `KxDgvEKzgSBPPfuVfw67oPQBSjidEiqTHURKSDL1R7yGaGYAeYnr` [Reference](https://github.com/mwherman2000/neo-dotnetquickstart/blob/master/EN-us/09-deploytestsmartcontract.md) Step. 15.
+
+## Important Tables
+
+* Contract Parameter Type Table [Reference](https://github.com/mwherman2000/neo-dotnetquickstart/blob/master/EN-us/09-deploytestsmartcontract.md) Step. 33.
+
+    Parameter/Return&nbsp;Type | Description |
+    :--------|:---------------------- |
+    Signature|00|
+    Boolean|01|
+    Integer|02|
+    Hash160 (160-bit hash value)|03|
+    Hash256 (256-bit hash value)|04|
+    ByteArray, Object|05|
+    PublicKey|06|
+    String|07|
+    Array|10|
+    InteropInterface|f0|   
+    Void|ff|
+    Table 9.1: NEO Smart Contract Parameter/Return Types [[NEOPARMTYPES](http://docs.neo.org/en-us/sc/tutorial/Parameter.html)]
+
 
 ## Goals
 
@@ -61,5 +85,11 @@ To learn more about contributing to the `neo-csharpcoe`, click [here](https://gi
 
    * neo-gui with features for developers
 
+* [deanpress@github.com](https://github.com/deanpress) - [neosense](https://github.com/deanpress/neosense)
 
+   * Tokyo meetup demo (python)
+
+* [neoauth@github](https://github.com/neoauth) - [neo-local](https://github.com/neoauth/neo-local)
+
+   * Tokyo meetup demo (python)
 
