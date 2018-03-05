@@ -67,7 +67,7 @@ If the `neo-csharpcoe` saved:
 
 **PayPal:** `mwherman@parallelspace.net` on [http://www.paypal.com](http://www.paypal.com)
 
-(All donations are segregated into a separate `neo-csharpcoe` accounts.)
+(All donations are segregated into separate `neo-csharpcoe` accounts.)
 
 ## Thank you
 
