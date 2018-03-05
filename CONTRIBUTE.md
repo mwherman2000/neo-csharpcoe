@@ -14,7 +14,7 @@ The `neo-csharpcoe` is an independent, free, open source project that is 100% co
 
 ## How to contribute your time and energy
 
-Make improvments/additions one of the existing `neo-csharpcoe` projects
+Make improvments/additions one of the existing `neo-csharpcoe` projects or [start a new project of your own](https://github.com/new) (and we'll link to it. Send us the details).
 
 * Fork the project, improve on it, and then issue a pull request
 * Code changes, additional documentation, translations, ...these are all valued here at the `neo-csharpcoe`
