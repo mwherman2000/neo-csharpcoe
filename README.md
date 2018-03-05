@@ -85,5 +85,9 @@ To learn more about contributing to the `neo-csharpcoe`, click [here](https://gi
 
    * neo-gui with features for developers
 
+* [deanpress@github.com](https://github.com/deanpress) - [neosense](https://github.com/deanpress/neosense)
+
+   * Tokyo meetup demo
+
 
 
