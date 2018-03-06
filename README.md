@@ -1,5 +1,6 @@
 # neo-csharpcoe
-NEO Blockchain C# Developer Center of Excellence
+
+[NEO Blockchain C# Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)
 
 ## Purpose
 
@@ -80,10 +81,14 @@ To learn more about contributing to the `neo-csharpcoe`, click [here](https://gi
 * [CityOfZion@github.com](https://github.com/CityOfZion) - [neo-debugger-tools](https://github.com/CityOfZion/neo-debugger-tools)
 
    * A set of tools to develop NEO smart contracts
+   * `neo-csharpcoe` contributions: Source-level execution cost profiler; Smartformatting of Event Log messages
 
 * [CityOfZion@github.com](https://github.com/CityOfZion) - [neo-gui-developer](https://github.com/CityOfZion/neo-gui-developer)
 
    * neo-gui with features for developers
+   * `neo-csharpcoe` contributions: Smartformatting of Event Log messages
+
+## Other Resources
 
 * [deanpress@github.com](https://github.com/deanpress) - [neosense](https://github.com/deanpress/neosense)
 
