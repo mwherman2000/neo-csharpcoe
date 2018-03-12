@@ -104,7 +104,7 @@ Michael Herman (Toronto) ([photo](https://raw.githubusercontent.com/mwherman2000
 
 Independent Developer
 * [NEO Blockchain C# Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)
-* NEO City of Zion (CoZ) (https://neo.org/home/team)
+* NEO City of Zion (CoZ)
 
 Michael Herman is a independent developer and writer who contributes to several NEO Blockchain projects including:
 * NEO developer tool suite (neo-debugger and neo-gui-developer projects)
