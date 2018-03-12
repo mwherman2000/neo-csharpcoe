@@ -28,7 +28,7 @@ Co-sponsored by the [NEO Blockchain C# Developers Center of Excellence](https://
 
  **Category 1. Best Enterprise Applications - Submission Requirements**
    
-   a. For smart contract/entity development, your project must use the NEO Persistable Classes (NPC e-dApp) Platform and NPC Compiler to create each entity class
+   a. For smart contract/Reusable Entity development, your project must use the NEO Persistable Classes (NPC e-dApp) Platform and NPC Compiler to create each entity class
 
    b. Your project's client application and smart contract(s) must use *at least three (3) different NPC Resuable Entity classes*.
    
@@ -54,7 +54,7 @@ Co-sponsored by the [NEO Blockchain C# Developers Center of Excellence](https://
 
 **Category 2: Developers Choice Awards: Best Reusable Entities -  Submission Requirements**
    
-   a. For smart contract/entity development, your project must use the NEO Persistable Classes (NPC e-dApp) Platform and NPC Compiler to create each entity
+   a. For smart contract/Reusable Entity development, your project must use the NEO Persistable Classes (NPC e-dApp) Platform and NPC Compiler to create each entity class
 
    b. Each of your Reusable Entity's methods must successfully and reliably execute using 10 Gas or less.
    
