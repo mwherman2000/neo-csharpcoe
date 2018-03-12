@@ -60,7 +60,7 @@ Co-sponsored by the [NEO Blockchain C# Developers Center of Excellence](https://
    
    c. If you want to submit a Reusable Entity without developing a submission for the Best Enterprise Application category, this is possible as long as someone else's Enterprise Application project uses your Reusable Entity as part of their submission.
 
-   d. Resuble Entities must use NEO Persistable Classes (NPC e-dApp) Platform features; for example, Resuable Entities cannot directly call `Storage.Put()` or `Storage.Get()`.
+   d. Reusable Entities must use NEO Persistable Classes (NPC e-dApp) Platform features; for example, Resuable Entities cannot directly call `Storage.Put()` or `Storage.Get()`.
 
    e. Reusable Entities submitted to the Best Enterprise Applications category must be submitted separately to the Developers Choice Awards: Best Reusable Entities category.
    
