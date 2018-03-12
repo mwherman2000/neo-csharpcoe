@@ -26,7 +26,7 @@ Co-sponsored by the [NEO Blockchain C# Developers Center of Excellence](https://
       
       c) quality of your project's code, documentation, and videos
 
-   **Best Enterprise Application - Submission Requirements**
+ **Category 1. Best Enterprise Applications - Submission Requirements**
    
    a. For smart contract/entity development, your project must use the NEO Persistable Classes (NPC e-dApp) Platform and NPC Compiler to create each entity class
 
@@ -52,7 +52,7 @@ Co-sponsored by the [NEO Blockchain C# Developers Center of Excellence](https://
       
       c) quality of the entity's code, documentation, and videos
 
-   **Developers Choice Awards: Best Reusable Entities -  Submission Requirements**
+**Category 2: Developers Choice Awards: Best Reusable Entitiess -  Submission Requirements**
    
    a. For smart contract/entity development, your project must use the NEO Persistable Classes (NPC e-dApp) Platform and NPC Compiler to create each entity
 
