@@ -8,7 +8,7 @@ NEO Persistable Classes (NPC e-dApp) Platform: NEO Blockchain Enterprise Applica
 
 ## What is the NEO Blockchain Enterprise Application Competition #1?
 
-Co-sponsored by the [NEO Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md) ([neo-csharpcoe](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)), this contest is an unparalleled opportunity for teams to focus your creativity, passion, and ambition into building reusable enterprise applications on the NEO Blockchain.
+Co-sponsored by the [NEO Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md) ([neo-csharpcoe](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)), this contest is an unparalleled opportunity for teams to focus their creativity, passion, and ambition into building reusable enterprise applications on the NEO Blockchain.
 
 ## Two Award Categories: Best Enterprise Applications and Best Resuble Entities
 
@@ -16,13 +16,13 @@ Co-sponsored by the [NEO Blockchain C# Developers Center of Excellence](https://
 
    Juried competition to choose the best 3 enterprise applications built with the NEO Persistable Classes (NPC e-dApp) Platform.
 
-   * Prizes will be awarded for first place, second place and third place.
+   * Prizes will be awarded for first place, second place, and third place.
    * Submissions will be independently voted on and selected by 3 enteprise application specialists.
    * Submissions will be judged based on, but not limited to, the following criteria: 
       
       a) originality, 
 
-      b) reusability and sharing of the application's components (smart contract as well as client-side patterns, entities, protocols, shared data, and other artefacts) across multiple projects - potential re-use and sharing  as well as actual reuse and sharing by other projects during the competition
+      b) reusability and sharability of the application's components (smart contract as well as client-side patterns, entities, protocols, shared data, and other artefacts) across multiple projects - potential re-use and sharing  as well as actual reuse and sharing by other projects during the competition
       
       c) quality of your project's code, documentation, and videos
 
