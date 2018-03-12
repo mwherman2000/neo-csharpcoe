@@ -30,9 +30,9 @@ Co-sponsored by the [NEO Blockchain C# Developers Center of Excellence](https://
    
    a. For smart contract/entity development, your project must use the NEO Persistable Classes (NPC e-dApp) Platform and NPC Compiler to create each entity class
 
-   b. Your project's client application and smart contract(s) must use *at least three (3) different Resuable Entity classes*.
+   b. Your project's client application and smart contract(s) must use *at least three (3) different NPC Resuable Entity classes*.
    
-   c. Your project can develop its own entities and/or re-use any existing NPC entities found in the NPC Entity Gallery [TODO]. Your project can partner with other projects to share entities, functionality, and/or deployed Reusable Entity smart contracts (including shared data). One NPC entity will be supplied in advance: `NPCCounter`. Use of `NPCounter` is optional.
+   c. Your project can develop its own entities and/or re-use any existing Resuable Entities found in the NPC Entity Gallery [TODO]. Your project can partner with other projects to share entities, functionality, and/or deployed Reusable Entity smart contracts (including shared data). One NPC entity will be supplied in advance: `NPCCounter`. Use of `NPCounter` is optional.
    
    d. You can use any .NET technology for your client-side application: ASP.NET, WinForms, WPF, Windows Console Application, Windows Service, Azure Web Jobs, etc.
 
@@ -58,7 +58,7 @@ Co-sponsored by the [NEO Blockchain C# Developers Center of Excellence](https://
 
    b. Each of your entity's functions must successfully and reliably execute using 10 Gas or less.
    
-   c. If you want to submit a Reusable Entity without developing a submission for the Best Enterprise Application category, this is possible as long as someone else's project uses your entity as part of their submission.
+   c. If you want to submit a Reusable Entity without developing a submission for the Best Enterprise Application category, this is possible as long as someone else's project uses your Reusable Entity as part of their submission.
 
    d. Resuble Entities must use NEO Persistable Classes (NPC e-dApp) Platform features; for example, Resuable Entities cannot directly call `Storage.Put()` or `Storage.Get()`.
    
