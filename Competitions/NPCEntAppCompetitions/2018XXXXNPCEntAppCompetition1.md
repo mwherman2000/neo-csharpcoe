@@ -58,7 +58,7 @@ Co-sponsored by the [NEO Blockchain C# Developers Center of Excellence](https://
 
    b. Each of your Reusable Entity's methods must successfully and reliably execute using 10 Gas or less.
    
-   c. If you want to submit a Reusable Entity without developing a submission for the Best Enterprise Application category, this is possible as long as someone else's project uses your Reusable Entity as part of their submission.
+   c. If you want to submit a Reusable Entity without developing a submission for the Best Enterprise Application category, this is possible as long as someone else's Enterprise Application project uses your Reusable Entity as part of their submission.
 
    d. Resuble Entities must use NEO Persistable Classes (NPC e-dApp) Platform features; for example, Resuable Entities cannot directly call `Storage.Put()` or `Storage.Get()`.
 
