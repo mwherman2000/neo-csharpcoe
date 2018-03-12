@@ -4,7 +4,7 @@
 
 How to contribute your time, energy, passion, promotion, and donations to the `neo-csharpcoe`.
 
-The `neo-csharpcoe` project is an "umbrella" project for several initiatives related to providing tools and libraries (code), frameworks, how-to documentation, and best practices for full-stack development using .NET/C# and C#.NEO and the NEO Blockchain software platform.
+The `neo-csharpcoe` project is an "umbrella" project for several initiatives related to providing tools and libraries (code), frameworks, how-to documentation, and best practices for full-stack development using .NET/C#, C#.NEO and the NEO Blockchain software platform.
 
 The `neo-csharpcoe` is an independent, free, open source project that is 100% community-supported by people like yourself through your contributions of time, energy, passion, promotion, and donations.
 

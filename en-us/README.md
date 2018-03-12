@@ -1,9 +1,10 @@
 # neo-csharpcoe
-NEO Blockchain C# Developer Center of Excellence
+
+[NEO Blockchain C# Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)
 
 ## Purpose
 
-The `neo-csharpcoe` project is an "umbrella" project for several initiatives related to providing tools and libraries (code), frameworks, how-to documentation, and best practices for full-stack development using .NET/C# and C#.NEO and the NEO Blockchain software platform.
+The `neo-csharpcoe` project is an "umbrella" project for several initiatives related to providing tools and libraries (code), frameworks, how-to documentation, and best practices for enterprise application development using .NET/C#, C#.NEO and the NEO Blockchain software platform.
 
 The `neo-csharpcoe` is an independent, free, open source project that is 100% community-supported by people like yourself through your contributions of time, energy, passion, promotion, and donations.  
 
@@ -71,7 +72,7 @@ To learn more about contributing to the `neo-csharpcoe`, click [here](https://gi
 3. C#.NEO Smart Contract Developers Guide ([neo-csguide](https://github.com/mwherman2000/neo-csguide))
 4. NEO Blockchain Architecture Reference Model (ARM) for .NET Developers ([neo-charm](https://github.com/mwherman2000/neo-charm))
 5. NEO Persistable Class (NPC) Compiler ([neo-npcc](https://github.com/mwherman2000/neo-npcc))
-6. NEO Persistable Classes V2.0 - An Efficient Object-Oriented Framework for C#.NEO Smart Contract Development ([neo-persistableclasses](https://github.com/mwherman2000/neo-persistableclasses))
+6. NEO Persistable Classes V2.0 - An Efficient Entity-based Framework for C#.NEO Smart Contract Development ([neo-persistableclasses](https://github.com/mwherman2000/neo-persistableclasses))
 7. NEO Persistable Classes V1.0 - An Efficient Object-Oriented Framework for C#.NEO Smart Contract Development ([neo-persistibleclasses](https://github.com/mwherman2000/neo-persistibleclasses))
 8. NEO Blockchain Toronto Meetup/Facebook/Twitter Bootstrap Kit ([neo-meetupbootstrap](https://github.com/mwherman2000/neo-meetupbootstrap))
 
@@ -80,10 +81,14 @@ To learn more about contributing to the `neo-csharpcoe`, click [here](https://gi
 * [CityOfZion@github.com](https://github.com/CityOfZion) - [neo-debugger-tools](https://github.com/CityOfZion/neo-debugger-tools)
 
    * A set of tools to develop NEO smart contracts
+   * `neo-csharpcoe` contributions: Source-level execution cost profiler; Smartformatting of Event Log messages
 
 * [CityOfZion@github.com](https://github.com/CityOfZion) - [neo-gui-developer](https://github.com/CityOfZion/neo-gui-developer)
 
    * neo-gui with features for developers
+   * `neo-csharpcoe` contributions: Smartformatting of Event Log messages
+
+## Other Resources
 
 * [deanpress@github.com](https://github.com/deanpress) - [neosense](https://github.com/deanpress/neosense)
 
@@ -92,4 +97,29 @@ To learn more about contributing to the `neo-csharpcoe`, click [here](https://gi
 * [neoauth@github](https://github.com/neoauth) - [neo-local](https://github.com/neoauth/neo-local)
 
    * Tokyo meetup demo (python)
+
+## Who is Michael Herman?
+
+Michael Herman (Toronto) ([photo](https://raw.githubusercontent.com/mwherman2000/neo-dotnetquickstart/master/EN-us/images/mwherman2000.jpg))
+
+Independent Developer
+* [NEO Blockchain C# Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)
+* NEO City of Zion (CoZ) (https://neo.org/home/team)
+
+Michael Herman is a independent developer and writer who contributes to several NEO Blockchain projects including:
+* NEO developer tool suite (neo-debugger and neo-gui-developer projects)
+* mwherman2000/neo-persistableclasses project – home of the NEO Persistible Class Framework (NPC) for efficient entity-based smart contract development using C#.NEO
+* mwherman2000/dotnetquickstart project – home of the NEO Blockchain Quick Start Guide for .NET Developers. 
+
+Michael is also the founder of the [NEO Blockchain C# Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md) as well as the first Canadian NEO Blockchain Meetup group (NEO Blockchain Toronto). He has helped bootstrap several additional Meetups worldwide including NEO Blockchain Vancouver, NEO Blockchain Cancun, and NEO Blockchain Turkey.
+
+### Contact
+
+* E: mailto:neotoronto@outlook.com
+* F: https://www.facebook.com/neotoronto/
+* G: https://github.com/mwherman2000/neo-windocs
+* M: https://www.meetup.com/NEO-Blockchain-Toronto
+* T: https://www.twitter.com/neotoronto
+* B: http://www.hyperonomy.com
+* L: https://www.linkedin.com/in/mwherman/ 
 
