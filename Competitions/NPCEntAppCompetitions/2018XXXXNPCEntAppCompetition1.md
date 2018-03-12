@@ -33,8 +33,8 @@ Co-sponsored by the [NEO Blockchain C# Developers Center of Excellence](https://
    b. Your project's client application and smart contract(s) must use *at least three (3) different NPC Resuable Entity classes*.
    
    c. Your project can develop its own entities and/or re-use any existing Resuable Entities found in the NPC Entity Gallery [TODO]. Your project can partner with other projects to share entities, functionality, and/or deployed Reusable Entity smart contracts (including shared data). One NPC entity will be supplied in advance: `NPCCounter`. Use of `NPCounter` is optional.
-   
-   d. You can use any .NET technology for your client-side application: ASP.NET, WinForms, WPF, Windows Console Application, Windows Service, Azure Web Jobs, etc.
+
+   d. The smart contacts/Reusable Entities for your enterprise application must be deployed on [`testnet`](https://neo.org/testnet?culture=en-us). You can use any .NET technology for your client-side application: ASP.NET, WinForms, WPF, Windows Console Application, Windows Service, Azure Web Jobs, etc. You can host and deploy your client-side application anywhere that is publicly accessible/runnable by the judges.
 
    e. Resuble Entities must use NEO Persistable Classes (NPC e-dApp) Platform features; for example, Resuable Entities cannot directly call `Storage.Put()` or `Storage.Get()`.
 
