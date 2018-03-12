@@ -1,6 +1,6 @@
 # neo-csharpcoe
 
-[NEO Blockchain C# Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)
+[NEO Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)
 
 ## Purpose
 
@@ -24,7 +24,7 @@ To learn more about contributing to the `neo-csharpcoe`, click [here](https://gi
 6. NEO Blockchain Architecture Reference Model (ARM) for .NET Developers ([neo-charm](https://github.com/mwherman2000/neo-charm))
 7. NEO Persistable Class (NPC) Compiler ([neo-npcc](https://github.com/mwherman2000/neo-npcc))
 8. [NEO System Fees Table](http://docs.neo.org/en-us/sc/systemfees.html)
-9. NEO Persistable Classes V1.0 - An Efficient Object-Oriented Framework for C#.NEO Smart Contract Development ([neo-persistibleclasses](https://github.com/mwherman2000/neo-persistibleclasses))
+9. NEO Persistable Classes V2.0 - An Efficient Entity-based Platform for enterprise application development using .NET/C#, C#.NEO and the NEO Blockchain ([neo-persistableclasses](https://github.com/mwherman2000/neo-persistableclasses))
 10. NEO Blockchain Toronto Meetup/Facebook/Twitter Bootstrap Kit ([neo-meetupbootstrap](https://github.com/mwherman2000/neo-meetupbootstrap))
 
 ## Keys
@@ -104,7 +104,7 @@ Michael Herman (Toronto) ([photo](https://raw.githubusercontent.com/mwherman2000
 
 Independent Developer
 * [NEO Blockchain C# Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)
-* NEO City of Zion (CoZ) (https://neo.org/home/team)
+* NEO City of Zion (CoZ)
 
 Michael Herman is a independent developer and writer who contributes to several NEO Blockchain projects including:
 * NEO developer tool suite (neo-debugger and neo-gui-developer projects)
