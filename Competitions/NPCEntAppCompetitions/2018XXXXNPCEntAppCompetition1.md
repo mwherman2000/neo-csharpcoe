@@ -22,13 +22,13 @@ Co-sponsored by the [NEO Blockchain C# Developers Center of Excellence](https://
       
       a) originality, 
 
-      b) reusability and sharability of the application's components (smart contract as well as client-side patterns, entities, protocols, shared data, and other artefacts) across multiple projects - potential re-use and sharing  as well as actual reuse and sharing by other projects during the competition
+      b) potential for re-use and sharing of the application's components (smart contract as well as client-side patterns, entities, protocols, shared data, and other artefacts) across multiple projects - as well as actual reuse and sharing by other project submissions during the competition
       
       c) quality of your project's code, documentation, and videos
 
-   **Best Enterprize Application - Submission Requirements**
+   **Best Enterprise Application - Submission Requirements**
    
-   a. For smart contract/entity development, your project must use the NEO Persistable Classes (NPC e-dApp) Platform and NPC Compiler to create each entity
+   a. For smart contract/entity development, your project must use the NEO Persistable Classes (NPC e-dApp) Platform and NPC Compiler to create each entity class
 
    b. Your project's client application and smart contract(s) must use *at least three (3) different entity classes*.
    
@@ -36,7 +36,7 @@ Co-sponsored by the [NEO Blockchain C# Developers Center of Excellence](https://
    
    d. You can use any .NET technology for your client-side application: ASP.NET, WinForms, WPF, Windows Console Application, Windows Service, Azure Web Jobs, etc.
 
-   **NOTE:** Re-use and sharing across projects is highly encouraged.
+   **NOTE:** Re-use and sharing of Reusable Entities by other project submissions is encouraged.
 
 2. **Developers Choice Awards: Best Reusable Entities** built using the NEO Persistable Classes (NPC e-dApp) Platform
 
@@ -58,7 +58,7 @@ Co-sponsored by the [NEO Blockchain C# Developers Center of Excellence](https://
    
    c. If you want to submit a Reusable Entity without developing a submission for the Best Enterprise Application category, this is possible as long as someone else's project uses your entity as part of their submission.
    
-   **NOTE:** Re-use and sharing of Reusable Entities across ,multiple projects is encouraged.
+   **NOTE:** Re-use and sharing of Reusable Entities by other project submissions is encouraged.
 
 ## What is the [NEO Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)?
 
