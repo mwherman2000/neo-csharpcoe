@@ -52,15 +52,17 @@ Co-sponsored by the [NEO Blockchain C# Developers Center of Excellence](https://
       
       c) quality of the entity's code, documentation, and videos
 
-**Category 2: Developers Choice Awards: Best Reusable Entitiess -  Submission Requirements**
+**Category 2: Developers Choice Awards: Best Reusable Entities -  Submission Requirements**
    
    a. For smart contract/entity development, your project must use the NEO Persistable Classes (NPC e-dApp) Platform and NPC Compiler to create each entity
 
-   b. Each of your entity's functions must successfully and reliably execute using 10 Gas or less.
+   b. Each of your Reusable Entity's methods must successfully and reliably execute using 10 Gas or less.
    
    c. If you want to submit a Reusable Entity without developing a submission for the Best Enterprise Application category, this is possible as long as someone else's project uses your Reusable Entity as part of their submission.
 
    d. Resuble Entities must use NEO Persistable Classes (NPC e-dApp) Platform features; for example, Resuable Entities cannot directly call `Storage.Put()` or `Storage.Get()`.
+
+   e. Reusable Entities submitted to the Best Enterprise Applications category must be submitted separately to the Developers Choice Awards: Best Reusable Entities category.
    
    **NOTE:** Re-use and sharing of Reusable Entities by other project submissions is encouraged.
 
