@@ -94,7 +94,7 @@ Submissions can be made by a project comprised of an individual or a team. A pro
    
    g. **NOTE:** Re-use and sharing of Reusable Entities by other competition project submissions is *encouraged*.
 
-## How to submit your Enterprise Application and/or Reusable Entities
+## How to submit your Enterprise Application and/or Reusable Entities to the competition
 
 TODO
 
