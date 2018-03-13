@@ -55,7 +55,7 @@ Submissions can be made by a project comprised of an individual or a team. A pro
 
    d. The smart contacts/Reusable Entities for your enterprise application must be deployed on [`testnet`](https://neo.org/testnet?culture=en-us). You can use any .NET technology for your client-side application: ASP.NET, WinForms, WPF, Windows Console Application, Windows Service, Azure Web Jobs, etc. You can host and deploy your client-side application anywhere that is publicly accessible/runnable by the judges.
 
-   e. Resuble Entities must use NEO Persistable Classes (NPC e-dApp) Platform features; for example, Reusable Entities cannot directly call `Storage.Put()` or `Storage.Get()`.
+   e. Resuble Entities must use NEO Persistable Classes (NPC e-dApp) Platform features; for example, your smart contracts/Reusable Entities cannot directly call `Storage.Put()` or `Storage.Get()`.
 
    f. All source code created for your submission must be [MIT Licensed](http://www.opensource.org/licenses/MIT).
 
@@ -86,7 +86,7 @@ Submissions can be made by a project comprised of an individual or a team. A pro
    
    c. If you want to submit a Reusable Entity without developing a submission for the Best Enterprise Applications category, this is possible as long as someone else's Enterprise Application project uses your Reusable Entity as part of their submission.
 
-   d. Reusable Entities must use NEO Persistable Classes (NPC e-dApp) Platform features; for example, Reusable Entities cannot directly call `Storage.Put()` or `Storage.Get()`.
+   d. Reusable Entities must use NEO Persistable Classes (NPC e-dApp) Platform features; for example, your smart contracts/Reusable Entities cannot directly call `Storage.Put()` or `Storage.Get()`.
 
    e. Reusable Entities submitted as part of a Best Enterprise Applications category submission must be submitted separately to the Developers Choice Awards: Best Reusable Entities category.
 
