@@ -18,7 +18,7 @@ Co-sponsored by the [NEO Blockchain C# Developers Center of Excellence](https://
 
 > End Date: XXXXXXXXXX XXXX XX, 2018 23:59 (11:59PM) PST (US/Canada West Coast)
 
-All submissions must be received by the above End Date to be accepted into the competition. Submissions received after this deadline will not be accepted as part of this competition.
+All submissions must be received by the above End Date to be accepted into the competition. Submissions received after this deadline will not be accepted into this competition.
 
 ## Two Award Categories
 
