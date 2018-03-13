@@ -24,7 +24,7 @@ All submissions must be received by the above End Date to be accepted into the c
 
 Submissions can be made by a project comprised of an individual or a team. A project can submit to either a single category or all competition catgories.
 
-**Category 1. Best Enterprise Applications** built using the NEO Persistable Classes (NPC e-dApp) Platform
+**Category 1. Best Enterprise Applications** 
 
    Juried competition to choose the best 3 enterprise applications built with the NEO Persistable Classes (NPC e-dApp) Platform on the NEO Blockchain.
 
@@ -61,7 +61,7 @@ Submissions can be made by a project comprised of an individual or a team. A pro
 
    g. **NOTE:** Re-use and sharing of Reusable Entities by other competition project submissions is *encouraged*.
 
-**Category 2: Developers Choice Awards: Best Reusable Entities** built using the NEO Persistable Classes (NPC e-dApp) Platform
+**Category 2: Developers Choice Awards: Best Reusable Entities** 
 
    * NPC Reusable Entities will be voted on by any developer who enters either: a) the NEO Blockchain Enterprise Application Competition: Best Enterprise Applications category and/or b) Best Reusable Entities category. 
    * The ten (10) Reusable Entities with the most votes will each win one prize.
