@@ -39,7 +39,7 @@ Submissions can be made by a project comprised of an individual or a team. A pro
    * Submissions will be independently voted on and selected by three (3) enterprise application specialists.
    * Submissions will be judged based on, but not limited to, the following criteria: 
       
-      a) originality, 
+      a) originality
 
       b) potential for re-use and sharing of the application's components across multiple projects (smart contract as well as client-side patterns, entities, protocols, shared data, and other artifacts) - as well as actual reuse and sharing of Resuble Entities by other project submissions
       
@@ -47,7 +47,7 @@ Submissions can be made by a project comprised of an individual or a team. A pro
 
  **Category 1. Best Enterprise Applications - Submission Requirements**
    
-   a. For smart contract/Reusable Entity development, your project must use the NEO Persistable Classes (NPC e-dApp) Platform and NPC Compiler to create each entity class
+   a. For smart contract/Reusable Entity development, your project must use the NEO Persistable Classes (NPC e-dApp) Platform and NPC Compiler to create each entity class.
 
    b. Your project's client application and smart contract(s) must use *at least three (3) different NPC Reusable Entity classes*.
    
@@ -72,7 +72,7 @@ Submissions can be made by a project comprised of an individual or a team. A pro
 
    * When voting for the Best Reusable Entities, developers are asked to keep the following criteria in mind: 
       
-      a) originality, 
+      a) originality
 
       b) potential re-use of an entity across multiple project (smart contract patterns, entities, protocols, shared data, and other artefacts) - as well as actual reuse and sharing of Resuble Entities by other project submissions
       
@@ -80,7 +80,7 @@ Submissions can be made by a project comprised of an individual or a team. A pro
 
 **Category 2: Developers Choice Awards: Best Reusable Entities -  Submission Requirements**
    
-   a. For smart contract/Reusable Entity development, your project must use the NEO Persistable Classes (NPC e-dApp) Platform and NPC Compiler to create each entity class
+   a. For smart contract/Reusable Entity development, your project must use the NEO Persistable Classes (NPC e-dApp) Platform and NPC Compiler to create each entity class.
 
    b. Each of your Reusable Entity's methods must successfully and reliably execute using 10 Gas or less.
    
