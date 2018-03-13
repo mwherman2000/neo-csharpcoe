@@ -1,4 +1,4 @@
-![NEO Persistable Classes (NPC) Platform: NEO Blockchain Enterprise Applications Competition #1](./NPCEntAppCompetition1.jpg)
+![NEO Persistable Classes (NPC) Platform: NEO Blockchain Enterprise Applications Competition #1](./NPCEntApps1.jpg)
 
 # NEO Blockchain Enterprise Applications Competition #1
 
