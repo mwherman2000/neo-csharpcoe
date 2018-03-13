@@ -8,7 +8,7 @@ NEO Persistable Classes (NPC e-dApp) Platform: NEO Blockchain Enterprise Applica
 
 ## What is the NEO Blockchain Enterprise Application Competition #1?
 
-Co-sponsored by the [NEO Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md) ([neo-csharpcoe](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)) and XXXXXXXXX, this contest is an unparalleled opportunity for teams to focus their creativity, passion, and ambition into building reusable enterprise application components on the NEO Blockchain.
+Co-sponsored by the [NEO Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md) ([neo-csharpcoe](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)) and XXXXXXXXX, this contest is an unparalleled opportunity for teams to focus their creativity, passion, and ambition into building reusable enterprise application components on the NEO Blockchain. The total value of the prizes for this competition is USD$10,000.
 
 ## Duration
 
@@ -29,7 +29,7 @@ Submissions can be made by a project comprised of an individual or a team. A pro
    Juried competition to choose the best 3 enterprise applications built with the NEO Persistable Classes (NPC e-dApp) Platform on the NEO Blockchain.
 
    * Prizes will be awarded for first place, second place, and third place.
-   
+
       | Prize | Value |
       | ----- | ----- |
       | First place | USD$5000 |
