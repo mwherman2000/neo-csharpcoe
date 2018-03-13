@@ -49,13 +49,13 @@ Submissions can be made by a project comprised of an individual or a team. A pro
    
    a. For smart contract/Reusable Entity development, your project must use the NEO Persistable Classes (NPC e-dApp) Platform and NPC Compiler to create each entity class
 
-   b. Your project's client application and smart contract(s) must use *at least three (3) different NPC Resuable Entity classes*.
+   b. Your project's client application and smart contract(s) must use *at least three (3) different NPC Reusable Entity classes*.
    
-   c. Your project can develop its own entities and/or re-use any existing Resuable Entities found in the NPC Entity Gallery [TODO]. Your project can partner with other projects to share entities, functionality, and/or deployed Reusable Entity smart contracts (including shared data). One NPC entity will be supplied in advance: `NPCCounter`. Use of `NPCounter` is optional.
+   c. Your project can develop its own entities and/or re-use any existing Reusable Entities found in the NPC Entity Gallery [TODO]. Your project can partner with other projects to share entities, functionality, and/or deployed Reusable Entity smart contracts (including shared data). One NPC entity will be supplied in advance: `NPCCounter`. Use of `NPCounter` is optional.
 
    d. The smart contacts/Reusable Entities for your enterprise application must be deployed on [`testnet`](https://neo.org/testnet?culture=en-us). You can use any .NET technology for your client-side application: ASP.NET, WinForms, WPF, Windows Console Application, Windows Service, Azure Web Jobs, etc. You can host and deploy your client-side application anywhere that is publicly accessible/runnable by the judges.
 
-   e. Resuble Entities must use NEO Persistable Classes (NPC e-dApp) Platform features; for example, Resuable Entities cannot directly call `Storage.Put()` or `Storage.Get()`.
+   e. Resuble Entities must use NEO Persistable Classes (NPC e-dApp) Platform features; for example, Reusable Entities cannot directly call `Storage.Put()` or `Storage.Get()`.
 
    f. All source code created for your submission must be [MIT Licensed](http://www.opensource.org/licenses/MIT).
 
@@ -70,7 +70,7 @@ Submissions can be made by a project comprised of an individual or a team. A pro
       | ----- | ----- |
       | 1 to 10 | USD$100 each |
 
-   * When voting for the Best Resuable Entities, developers are asked to keep the following criteria in mind: 
+   * When voting for the Best Reusable Entities, developers are asked to keep the following criteria in mind: 
       
       a) originality, 
 
@@ -86,7 +86,7 @@ Submissions can be made by a project comprised of an individual or a team. A pro
    
    c. If you want to submit a Reusable Entity without developing a submission for the Best Enterprise Applications category, this is possible as long as someone else's Enterprise Application project uses your Reusable Entity as part of their submission.
 
-   d. Reusable Entities must use NEO Persistable Classes (NPC e-dApp) Platform features; for example, Resuable Entities cannot directly call `Storage.Put()` or `Storage.Get()`.
+   d. Reusable Entities must use NEO Persistable Classes (NPC e-dApp) Platform features; for example, Reusable Entities cannot directly call `Storage.Put()` or `Storage.Get()`.
 
    e. Reusable Entities submitted as part of a Best Enterprise Applications category submission must be submitted separately to the Developers Choice Awards: Best Reusable Entities category.
 
