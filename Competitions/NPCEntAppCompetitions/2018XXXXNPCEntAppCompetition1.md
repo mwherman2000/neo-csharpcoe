@@ -29,6 +29,7 @@ Submissions can be made by a project comprised of an individual or a team. A pro
    Juried competition to choose the best 3 enterprise applications built with the NEO Persistable Classes (NPC e-dApp) Platform on the NEO Blockchain.
 
    * Prizes will be awarded for first place, second place, and third place.
+   
       | Prize | Value |
       | ----- | ----- |
       | First place | USD$5000 |
