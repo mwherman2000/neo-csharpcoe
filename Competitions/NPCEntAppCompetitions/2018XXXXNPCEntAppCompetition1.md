@@ -36,7 +36,7 @@ Submissions can be made by a project comprised of an individual or a team. A pro
       | Second place | USD$3000 |
       | Third place | USD$1000 |
 
-   * Submissions will be independently voted on and selected by three (3) enteprise application specialists.
+   * Submissions will be independently voted on and selected by three (3) enterprise application specialists.
    * Submissions will be judged based on, but not limited to, the following criteria: 
       
       a) originality, 
@@ -63,7 +63,7 @@ Submissions can be made by a project comprised of an individual or a team. A pro
 
 **Category 2: Developers Choice Awards: Best Reusable Entities** built using the NEO Persistable Classes (NPC e-dApp) Platform
 
-   * NPC Reusable Entities will be voted on by any developer who enters either: a) the NEO Blockchain Enterprise Application Competition: Best Enteprise Applications category and/or b) Best Reusable Entities category. 
+   * NPC Reusable Entities will be voted on by any developer who enters either: a) the NEO Blockchain Enterprise Application Competition: Best Enterprise Applications category and/or b) Best Reusable Entities category. 
    * The ten (10) Reusable Entities with the most votes will each win one prize.
 
       | Prize | Value |
