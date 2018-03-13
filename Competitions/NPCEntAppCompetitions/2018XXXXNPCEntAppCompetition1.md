@@ -94,7 +94,7 @@ Submissions can be made by a project comprised of an individual or a team. A pro
    
    g. **NOTE:** Re-use and sharing of Reusable Entities by other competition project submissions is *encouraged*.
 
-## How to submit your Enterprise Application and/or Reusable Entityies
+## How to submit your Enterprise Application and/or Reusable Entities
 
 TODO
 
@@ -106,4 +106,4 @@ The `neo-csharpcoe` is an independent, free, open source project that is 100% co
 
 To learn more about contributing to the `neo-csharpcoe`, click [here](https://github.com/mwherman2000/neo-csharpcoe/blob/master/CONTRIBUTE.md).
 
-# Best wishes creating the best enterprise applications and reusable entities on the NEO Blockchain
+# Best wishes entering the competition
