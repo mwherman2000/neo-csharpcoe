@@ -59,7 +59,7 @@ Submissions can be made by a project comprised of an individual or a team. A pro
 
    f. All source code created for your submission must be [MIT Licensed](http://www.opensource.org/licenses/MIT).
 
-   g. **NOTE:** Re-use and sharing of Reusable Entities by other competition project submissions is encouraged.
+   g. **NOTE:** Re-use and sharing of Reusable Entities by other competition project submissions is *encouraged*.
 
 **Category 2: Developers Choice Awards: Best Reusable Entities** built using the NEO Persistable Classes (NPC e-dApp) Platform
 
@@ -92,7 +92,7 @@ Submissions can be made by a project comprised of an individual or a team. A pro
 
    f. All source code created for your submission must be [MIT Licensed](http://www.opensource.org/licenses/MIT).
    
-   g. **NOTE:** Re-use and sharing of Reusable Entities by other competition project submissions is encouraged.
+   g. **NOTE:** Re-use and sharing of Reusable Entities by other competition project submissions is *encouraged*.
 
 ## How to submit your Enterprise Application and/or Reusable Entityies
 
