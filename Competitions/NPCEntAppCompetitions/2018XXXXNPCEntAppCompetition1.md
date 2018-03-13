@@ -17,6 +17,11 @@ Co-sponsored by the [NEO Blockchain C# Developers Center of Excellence](https://
    Juried competition to choose the best 3 enterprise applications built with the NEO Persistable Classes (NPC e-dApp) Platform on the NEO Blockchain.
 
    * Prizes will be awarded for first place, second place, and third place.
+      | Prize | Value |
+      | ----- | ----- |
+      | First place | USD$5000 |
+      | Second place | USD$3000 |
+      | Third place | USD$1000 |
    * Submissions will be independently voted on and selected by 3 enteprise application specialists.
    * Submissions will be judged based on, but not limited to, the following criteria: 
       
@@ -43,7 +48,12 @@ Co-sponsored by the [NEO Blockchain C# Developers Center of Excellence](https://
 **Category 2: Developers Choice Awards: Best Reusable Entities** built using the NEO Persistable Classes (NPC e-dApp) Platform
 
    * NPC Reusable Entities will be voted on by any developer who enters the NEO Blockchain Enterprise Application Competition: Best Enteprise Applications category and/or Best Reusable Entities category. 
-   * The ten (10) Reusable Entities with the most votes will win prizes.
+   * The ten (10) Reusable Entities with the most votes will win one prize each.
+
+      | Prize | Value |
+      | ----- | ----- |
+      | 1 to 10 | USD$100 each |
+
    * When voting for the Best Resuable Entities, developers are asked to keep the following criteria in mind: 
       
       a) originality, 
