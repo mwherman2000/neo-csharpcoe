@@ -10,6 +10,14 @@ NEO Persistable Classes (NPC e-dApp) Platform: NEO Blockchain Enterprise Applica
 
 Co-sponsored by the [NEO Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md) ([neo-csharpcoe](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)), this contest is an unparalleled opportunity for teams to focus their creativity, passion, and ambition into building reusable enterprise applications on the NEO Blockchain.
 
+## Duration
+
+> 6 weeks
+
+> Start: XXXXXXXXXX XXXX XX, 2018 23:59 (11:59PM) PST (US/Canada West Coast)
+
+> End: XXXXXXXXXX XXXX XX, 2018 23:59 (11:59PM) PST (US/Canada West Coast)
+
 ## Two Award Categories
 
 **Category 1. Best Enterprise Applications** built using the NEO Persistable Classes (NPC e-dApp) Platform
@@ -75,6 +83,10 @@ Co-sponsored by the [NEO Blockchain C# Developers Center of Excellence](https://
    e. Reusable Entities submitted to the Best Enterprise Applications category must be submitted separately to the Developers Choice Awards: Best Reusable Entities category.
    
    **NOTE:** Re-use and sharing of Reusable Entities by other project submissions is encouraged.
+
+## How to submit your Enterprise Application and/or Reusable Entityies
+
+TODO
 
 ## What is the [NEO Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)?
 
