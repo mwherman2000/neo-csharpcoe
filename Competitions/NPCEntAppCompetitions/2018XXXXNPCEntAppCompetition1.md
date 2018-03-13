@@ -1,6 +1,6 @@
-![NPC e-dApp Platform: NEO Blockchain Enterprise Application Competition #1](./NPCEntAppCompetition1.jpg)
+![NEO Persistable Classes (NPC) Platform: NEO Blockchain Enterprise Application Competition #1](./NPCEntAppCompetition1.jpg)
 
-# NEO Persistable Classes Platform: NEO Blockchain Enterprise Application Competition #1
+# NEO Blockchain Enterprise Application Competition #1
 
 NEO Persistable Classes (NPC e-dApp) Platform: NEO Blockchain Enterprise Application Competition #1
 
