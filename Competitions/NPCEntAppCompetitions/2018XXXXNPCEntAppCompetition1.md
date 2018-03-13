@@ -106,3 +106,4 @@ The `neo-csharpcoe` is an independent, free, open source project that is 100% co
 
 To learn more about contributing to the `neo-csharpcoe`, click [here](https://github.com/mwherman2000/neo-csharpcoe/blob/master/CONTRIBUTE.md).
 
+# Best wishes creating the best enterprise applications and reusable entities on the NEO Blockchain
