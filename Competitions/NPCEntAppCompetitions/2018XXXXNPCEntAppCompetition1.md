@@ -22,7 +22,7 @@ All submissions must be received by the above End Date to be accepted into the c
 
 ## Two Award Categories
 
-Submissions can be made by a project comprised of an individual or a team. A project can be submit to either a single category or all competition catgories.
+Submissions can be made by a project comprised of an individual or a team. A project can submit to either a single category or all competition catgories.
 
 **Category 1. Best Enterprise Applications** built using the NEO Persistable Classes (NPC e-dApp) Platform
 
