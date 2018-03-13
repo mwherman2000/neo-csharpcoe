@@ -1,12 +1,12 @@
-![NEO Persistable Classes (NPC) Platform: NEO Blockchain Enterprise Application Competition #1](./NPCEntAppCompetition1.jpg)
+![NEO Persistable Classes (NPC) Platform: NEO Blockchain Enterprise Applications Competition #1](./NPCEntAppCompetition1.jpg)
 
-# NEO Blockchain Enterprise Application Competition #1
+# NEO Blockchain Enterprise Applications Competition #1
 
-NEO Persistable Classes (NPC e-dApp) Platform: NEO Blockchain Enterprise Application Competition #1
+NEO Persistable Classes (NPC e-dApp) Platform: NEO Blockchain Enterprise Applications Competition #1
 
 [NEO Blockchain C# Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)
 
-## What is the NEO Blockchain Enterprise Application Competition #1?
+## What is the NEO Blockchain Enterprise Applications Competition #1?
 
 Co-sponsored by the [NEO Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md) ([neo-csharpcoe](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)) and XXXXXXXXX, this contest is an unparalleled opportunity for teams to focus their creativity, passion, and ambition into building reusable enterprise application components on the NEO Blockchain. The total value of the prizes for this competition is USD$10,000.
 
@@ -63,7 +63,7 @@ Submissions can be made by a project comprised of an individual or a team. A pro
 
 **Category 2: Developers Choice Awards: Best Reusable Entities** 
 
-   * NPC Reusable Entities will be voted on by any developer who enters either: a) the NEO Blockchain Enterprise Application Competition: Best Enterprise Applications category and/or b) Best Reusable Entities category. 
+   * NPC Reusable Entities will be voted on by any developer who enters either: a) the NEO Blockchain Enterprise Applications Competition: Best Enterprise Applications category and/or b) Best Reusable Entities category. 
    * The ten (10) Reusable Entities with the most votes will each win one prize.
 
       | Prize | Value |
