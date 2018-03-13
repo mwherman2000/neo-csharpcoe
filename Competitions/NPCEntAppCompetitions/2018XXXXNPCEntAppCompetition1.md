@@ -18,11 +18,11 @@ Co-sponsored by the [NEO Blockchain C# Developers Center of Excellence](https://
 
 > End Date: XXXXXXXXXX XXXX XX, 2018 23:59 (11:59PM) PST (US/Canada West Coast)
 
-All submissions must be received by the above Ed Date to be accepted into the competition. Submissions received after this deadline will not be accepted as part of this competition.
+All submissions must be received by the above Edd Date to be accepted into the competition. Submissions received after this deadline will not be accepted as part of this competition.
 
 ## Two Award Categories
 
-Submissions can be made by a project comprised of an individual or a team. A project can be submit to both competition catgories.
+Submissions can be made by a project comprised of an individual or a team. A project can be submit to either a single category or all competition catgories.
 
 **Category 1. Best Enterprise Applications** built using the NEO Persistable Classes (NPC e-dApp) Platform
 
