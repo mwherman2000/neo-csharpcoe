@@ -1,14 +1,16 @@
-![NEO Persistable Classes (NPC) Platform: NEO Blockchain Enterprise Applications Competition #1](./NPCEntApps1.jpg)
+![NEO Blockchain Enterprise Distributed Applications Competition #1](./NPCEntApps1.jpg)
 
-# NEO Blockchain Enterprise Applications Competition #1
-
-NEO Persistable Classes (NPC e-dApp) Platform: NEO Blockchain Enterprise Applications Competition #1
+# NEO Blockchain Enterprise Distributed Applications Competition #1
 
 [NEO Blockchain C# Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)
 
-## What is the NEO Blockchain Enterprise Applications Competition #1?
+## What is the NEO Blockchain Enterprise Distributed Applications Competition #1?
 
-Co-sponsored by the [NEO Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md) ([neo-csharpcoe](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)) and XXXXXXXXX, this contest is an unparalleled opportunity for teams to focus their creativity, passion, and ambition into building reusable enterprise application components on the NEO Blockchain. The total value of the prizes for this competition is USD$10,000.
+Co-sponsored by the [NEO Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md) ([neo-csharpcoe](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)) and XXXXXXXXX, this contest is an unparalleled opportunity for teams to focus their creativity, passion, and ambition into building enterprise distributed applications on the NEO Blockchain using Microsoft Azure, Microsoft Visual Studio, and C#. 
+
+Online training and support will be provided by the [NEO Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md) ([neo-csharpcoe](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)). The next generation of enterprise distributed applications built using Smart Data on the NEO Blockchain has arrived. 
+
+The total value of the prizes for this competition is USD$10,000.
 
 ## Duration
 
@@ -24,9 +26,9 @@ All submissions must be received by the above End Date to be accepted into the c
 
 Submissions can be made by a project comprised of an individual or a team. A project can submit to either a single category or all competition catgories.
 
-**Category 1. Best Enterprise Applications** 
+**Category 1. Best Enterprise Distributed Applications** 
 
-   Juried competition to choose the best 3 enterprise applications built with the NEO Persistable Classes (NPC e-dApp) Platform on the NEO Blockchain.
+   Juried competition to choose the best 3 Enterprise Distributed Applications built with Microsoft Azure, Microsoft Visual Studio, C#, and the NEO Persistable Classes Platform on the NEO Blockchain.
 
    * Prizes will be awarded for first place, second place, and third place.
 
@@ -36,7 +38,7 @@ Submissions can be made by a project comprised of an individual or a team. A pro
       | Second place | USD$3000 |
       | Third place | USD$1000 |
 
-   * Submissions will be independently voted on and selected by three (3) enterprise application specialists.
+   * Submissions will be independently voted on and selected by three (3) Enterprise Distributed Application specialists.
    * Submissions will be judged based on, but not limited to, the following criteria: 
       
       a) originality
@@ -45,17 +47,17 @@ Submissions can be made by a project comprised of an individual or a team. A pro
       
       c) quality of your project's code, documentation, and videos
 
- **Category 1. Best Enterprise Applications - Submission Requirements**
+ **Category 1. Best Enterprise Distributed Applications - Submission Requirements**
    
-   a. For smart contract/Reusable Entity development, your project must use the NEO Persistable Classes (NPC e-dApp) Platform and NPC Compiler to create each entity class.
+   a. For Reusable Entity development, your project must use Microsoft Azure, Microsoft Visual Studio, C#, and the NEO Persistable Classes Platform (NPC Compiler) to create each Reusable Entity class.
 
-   b. Your project's client application and smart contract(s) must use *at least three (3) different NPC Reusable Entity classes*.
+   b. Your project's client application and smart contract(s) must use *at least three (3) different Reusable Entity classes*.
    
-   c. Your project can develop its own entities and/or re-use any existing Reusable Entities found in the NPC Entity Gallery [TODO]. Your project can partner with other projects to share entities, functionality, and/or deployed Reusable Entity smart contracts (including shared data). One NPC entity will be supplied in advance: `NPCCounter`. Use of `NPCounter` is optional.
+   c. Your project can develop its own entities and/or re-use any existing Reusable Entities found in the NPC Reusable Entity Gallery [TODO]. Your project can partner with other projects to share entities, functionality, and/or deployed Reusable Entity smart contracts (including shared data). One Reusable Entity will be supplied in advance: `NPCCounter`. Use of `NPCounter` is optional.
 
-   d. The smart contacts/Reusable Entities for your enterprise application must be deployed on [`testnet`](https://neo.org/testnet?culture=en-us). You can use any .NET technology for your client-side application: ASP.NET, WinForms, WPF, Windows Console Application, Windows Service, Azure Web Jobs, etc. You can host and deploy your client-side application anywhere that is publicly accessible/runnable by the judges.
+   d. The Reusable Entities for your distributed application must be deployed on [NEO `testnet`](https://neo.org/testnet?culture=en-us). You can use any .NET technology for your client-side application: ASP.NET, WinForms, WPF, Windows Console Application, Windows Service, Azure Web Jobs, etc. You can host and deploy your client-side application anywhere that is publicly accessible/runnable by the judges; Microsoft Azure is preferred.
 
-   e. Resuble Entities must use NEO Persistable Classes (NPC e-dApp) Platform features; for example, your smart contracts/Reusable Entities cannot directly call `Storage.Put()` or `Storage.Get()`.
+   e. Resuble Entities must use NEO Persistable Classes Platform features; for example, your smart contracts/Reusable Entities cannot directly call `Storage.Put()` or `Storage.Get()`.
 
    f. All source code created for your submission must be [MIT Licensed](http://www.opensource.org/licenses/MIT).
 
@@ -63,7 +65,8 @@ Submissions can be made by a project comprised of an individual or a team. A pro
 
 **Category 2: Developers Choice Awards: Best Reusable Entities** 
 
-   * NPC Reusable Entities will be voted on by any developer who enters either: a) the NEO Blockchain Enterprise Applications Competition: Best Enterprise Applications category and/or b) Best Reusable Entities category. 
+   * NPC Reusable Entities will be voted on by any developer who enters either: a) the NEO Blockchain Enterprise Distributed Applications Competition: Best Enterprise Distributed Applications category and/or b) Best Reusable Entities category. 
+
    * The ten (10) Reusable Entities with the most votes will each win one prize.
 
       | Prize | Value |
@@ -80,27 +83,27 @@ Submissions can be made by a project comprised of an individual or a team. A pro
 
 **Category 2: Developers Choice Awards: Best Reusable Entities -  Submission Requirements**
    
-   a. For smart contract/Reusable Entity development, your project must use the NEO Persistable Classes (NPC e-dApp) Platform and NPC Compiler to create each entity class.
+   a. For smart contract/Reusable Entity development, your project must use with Microsoft Azure, Microsoft Visual Studio, C#, and the NEO Persistable Classes Platform (NPC Compiler) to create each Reusable Entity class.
 
-   b. Each of your Reusable Entity's methods must successfully and reliably execute using 10 Gas or less.
+   b. Each of your Reusable Entity's methods must successfully and reliably execute using 10 NeoGas (GAS) or less.
    
-   c. If you want to submit a Reusable Entity without developing a submission for the Best Enterprise Applications category, this is possible as long as someone else's Enterprise Application project uses your Reusable Entity as part of their submission.
+   c. If you want to submit a Reusable Entity without developing a submission for the Best Enterprise Distributed Applications category, this is possible as long as someone else's Enterprise Distributed Application project uses your Reusable Entity as part of their submission.
 
-   d. Reusable Entities must use NEO Persistable Classes (NPC e-dApp) Platform features; for example, your smart contracts/Reusable Entities cannot directly call `Storage.Put()` or `Storage.Get()`.
+   d. Reusable Entities must use NEO Persistable Classes Platform features; for example, your Reusable Entities/smart contracts cannot directly call `Storage.Put()` or `Storage.Get()`.
 
-   e. Reusable Entities submitted as part of a Best Enterprise Applications category submission must be submitted separately to the Developers Choice Awards: Best Reusable Entities category.
+   e. Reusable Entities submitted as part of a Best Enterprise Distributed Applications category submission must be submitted separately to the Developers Choice Awards: Best Reusable Entities category.
 
    f. All source code created for your submission must be [MIT Licensed](http://www.opensource.org/licenses/MIT).
    
    g. **NOTE:** Re-use and sharing of Reusable Entities by other competition project submissions is *encouraged*.
 
-## How to submit your Enterprise Application and/or Reusable Entities to the competition
+## How to submit your Enterprise Distributed Application and/or Reusable Entities to the competition
 
 TODO
 
 ## What is the [NEO Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)?
 
-The `neo-csharpcoe` project is an "umbrella" project for several initiatives related to providing tools and libraries (code), frameworks, how-to documentation, and best practices for enterprise application development using .NET/C#, C#.NEO and the NEO Blockchain software platform.
+The `neo-csharpcoe` project is an "umbrella" project for several initiatives related to providing tools and libraries (code), frameworks, how-to documentation, and best practices for Enterprise Distributed Application development using .NET/C#, C#.NEO and the NEO Blockchain software platform.
 
 The `neo-csharpcoe` is an independent, free, open source project that is 100% community-supported by people like yourself through your contributions of time, energy, passion, promotion, and donations.
 
