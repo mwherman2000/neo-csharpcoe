@@ -55,11 +55,11 @@ Submissions can be made by a project comprised of an individual or a team. A pro
 
    b. Your project's client application and smart contract(s) must use *at least three (3) different Reusable Entity classes*.
    
-   c. Your project can develop its own entities and/or re-use any existing Reusable Entities found in the NPC Reusable Entity Gallery [TODO]. Your project can partner with other projects to share entities, functionality, and/or deployed Reusable Entity smart contracts (including shared data). One Reusable Entity will be supplied in advance: `NPCCounter`. Use of `NPCounter` is optional.
+   c. Your project can develop its own entities and/or re-use any existing Reusable Entities found in the NPC Reusable Entity Gallery [TODO]. Your project can partner with other projects to share entities, functionality, deployed Reusable Entity/smart contracts (including shared data). One Reusable Entity will be supplied in advance: `NPCCounter`. Use of `NPCounter` is optional.
 
    d. The Reusable Entities for your distributed application must be deployed on [NEO `testnet`](https://neo.org/testnet?culture=en-us). You can use any .NET technology for your client-side application: ASP.NET, WinForms, WPF, Windows Console Application, Windows Service, Azure Web Jobs, etc. You can host and deploy your client-side application anywhere that is publicly accessible/runnable by the judges; Microsoft Azure is preferred.
 
-   e. Resuble Entities must use NEO Persistable Classes Platform features; for example, your smart contracts/Reusable Entities cannot directly call `Storage.Put()` or `Storage.Get()`.
+   e. Resuble Entities must use NEO Persistable Classes Platform features; for example, your Reusable Entities/smart contracts cannot directly call `Storage.Put()` or `Storage.Get()`.
 
    f. All source code created for your submission must be [MIT Licensed](http://www.opensource.org/licenses/MIT).
 
@@ -85,7 +85,7 @@ Submissions can be made by a project comprised of an individual or a team. A pro
 
 **Category 2: Developers Choice Awards: Best Reusable Entities -  Submission Requirements**
    
-   a. For smart contract/Reusable Entity development, your project must use with Microsoft Azure, Microsoft Visual Studio, C#, and the NEO Persistable Classes Platform (NPC Compiler) to create each Reusable Entity class.
+   a. For Reusable Entity/smart contract development, your project must use Microsoft Azure, Microsoft Visual Studio, C#, and the NEO Persistable Classes Platform (NPC Compiler) to create each Reusable Entity class.
 
    b. Each of your Reusable Entity's methods must successfully and reliably execute using 10 NeoGas (GAS) or less.
    
