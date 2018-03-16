@@ -45,7 +45,7 @@ Submissions can be made by a project comprised of an individual or a team. A pro
       
       a) originality
 
-      b) potential for re-use and sharing of the application's components across multiple projects (smart contract as well as client-side patterns, entities, protocols, shared data, and other artifacts) - as well as actual reuse and sharing of Resuble Entities by other project submissions
+      b) potential for re-use and sharing of the application's components across multiple projects (Reusable Entities as well as client-side patterns, entities, protocols, shared data, and other artifacts) - including actual reuse and sharing of Resuble Entities by other project submissions
       
       c) quality of your project's code, documentation, and videos
 
@@ -79,7 +79,7 @@ Submissions can be made by a project comprised of an individual or a team. A pro
       
       a) originality
 
-      b) potential re-use of an entity across multiple project (smart contract patterns, entities, protocols, shared data, and other artefacts) - as well as actual reuse and sharing of Resuble Entities by other project submissions
+      b) potential re-use of an entity across multiple project (smart contract patterns, entities, protocols, shared data, and other artefacts) - including actual reuse and sharing of Resuble Entities by other project submissions
       
       c) quality of the entity's code, documentation, and videos
 
