@@ -43,11 +43,11 @@ Submissions can be made by a project comprised of an individual or a team. A pro
    * Submissions will be independently voted on and selected by three (3) Enterprise Distributed Application specialists.
    * Submissions will be judged based on, but not limited to, the following criteria: 
       
-      a) originality
+      a) Originality
 
-      b) potential for re-use and sharing of the application's components across multiple projects (Reusable Entities as well as client-side patterns, entities, protocols, shared data, and other artifacts) - including actual reuse and sharing of Resuble Entities by other project submissions
+      b) Potential for re-use and sharing of the application's components across multiple projects (Reusable Entities as well as client-side patterns, entities, protocols, shared data, and other artifacts) - including actual reuse and sharing of Resuble Entities by other project submissions
       
-      c) quality of your project's code, documentation, and videos
+      c) Quality of your project's code, documentation, and videos
 
  **Category 1. Best Enterprise Distributed Applications - Submission Requirements**
    
@@ -77,11 +77,11 @@ Submissions can be made by a project comprised of an individual or a team. A pro
 
    * When voting for the Best Reusable Entities, developers are asked to keep the following criteria in mind: 
       
-      a) originality
+      a) Originality
 
-      b) potential re-use of an entity across multiple project (smart contract patterns, entities, protocols, shared data, and other artefacts) - including actual reuse and sharing of Resuble Entities by other project submissions
+      b) Potential re-use of an entity across multiple project (smart contract patterns, entities, protocols, shared data, and other artefacts) - including actual reuse and sharing of Resuble Entities by other project submissions
       
-      c) quality of the entity's code, documentation, and videos
+      c) Quality of the entity's code, documentation, and videos
 
 **Category 2: Developers Choice Awards: Best Reusable Entities -  Submission Requirements**
    
