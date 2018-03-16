@@ -8,7 +8,9 @@
 
 Co-sponsored by the [NEO Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md) ([neo-csharpcoe](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)) and XXXXXXXXX, this contest is an unparalleled opportunity for teams to focus their creativity, passion, and ambition into building enterprise distributed applications on the NEO Blockchain using Microsoft Azure, Microsoft Visual Studio, and C#. 
 
-Online training and support will be provided by the [NEO Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md) ([neo-csharpcoe](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)). The next generation of enterprise distributed applications built using Smart Data on the NEO Blockchain has arrived. 
+Online training and support will be provided by the [NEO Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md) ([neo-csharpcoe](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)). 
+
+The next generation of enterprise distributed applications built using Smart Data on the NEO Blockchain has arrived. 
 
 The total value of the prizes for this competition is USD$10,000.
 
