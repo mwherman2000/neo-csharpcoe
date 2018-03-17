@@ -63,7 +63,7 @@
 
    ![The Technology Adoption Curve](./images/TheTechAdoptionCurveHighlighted.png)
 
-### The Best Blockchain Platform developed entirely on .NET
+### The Best and Only Blockchain Platform developed entirely on .NET
 
 * As reiterated above, the NEO Blockchain is the only programmable blockchain platform that written entirely in .NET and C# using Visual Studio.  This has multiple benefits:
 
