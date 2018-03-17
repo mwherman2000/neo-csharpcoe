@@ -74,7 +74,7 @@ What is unique about Enterprise Distributed Application development on a blockch
 
 * To learn more, checkout [[NEO Whitepaper](http://docs.neo.org/en-us/)]
 
-### Large Existing Base of .NET and C# Developers
+### Large Base of .NET and C# Developers = Huge Opportunity to create Resurgence in the Enterprise Adoption of Microsoft Azure, .NET, Visual Studio and C#
 
 * Incremental technology education, training, and adoption
 
