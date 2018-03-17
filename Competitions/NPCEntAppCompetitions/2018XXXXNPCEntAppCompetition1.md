@@ -1,4 +1,4 @@
-![NEO Blockchain Enterprise Distributed Applications Competition #1](./NPCEntApps1.jpg)
+![NEO Blockchain Enterprise Distributed Applications Competition #1](./images/NPCEntApps1.jpg)
 
 # NEO Blockchain Enterprise Distributed Applications Competition #1
 
