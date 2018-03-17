@@ -4,7 +4,11 @@
 
 [NEO Blockchain C# Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)
 
-## Background: NEO Blockchain as a .NET and C# Platform
+## Topics
+* Background: NEO Blockchain as an Enterprise .NET and C# Platform
+* Driving a Resurgence in Enterprise Adoption of Microsoft Azure, .NET, Visual Studio and C#
+
+## Background: NEO Blockchain as an Enterprise .NET and C# Platform
 
 * The NEO Blockchain is an open source platform project for enterprise distributed applications.
 * All of the NEO Blockchain core components are written entirely using .NET, C# and Visual Studio including:
@@ -13,7 +17,7 @@
   * NEO Virtual Machine
   * NEO Transcompiler
   * NEO Debugger
-  * NEO Soure-code Level Execution Cost Profiler
+  * NEO Source-code Level Execution Cost Profiler
   * NEO Developer's Wallet
   * NEO Smart Contract Visual Studio Extension
 
@@ -21,11 +25,13 @@
 
 * C#, using the NEO Persistable Classes Platform, is the only NEO smart contract development environment capable to supporting enterprise-class distributed application development.
 
-* The NEO Blockchain is the #2 programmable blockchain platform. Ethereum, the #1 programmble blockchain platform, has show-stopping limitations in terms of scalability, performance, and capability as an enterprise distributed applications platform.
+* The NEO Blockchain is currently the #2 programmable blockchain platform. However, Ethereum, the #1 programmable blockchain platform, has show-stopping limitations in terms of scalability, performance, and capability as an enterprise distributed applications platform as exemplified by the following quotations:
 
-  > Ethereum is a *one-trick pony x 1500* because the Solidity language used for developing Ethereum smart contracts is only able to represent a simple, single entity per smart contract. [[NEO Blockchain Vancouver Meetup Kick-off Presentation, Slide 59](https://github.com/mwherman2000/neo-csharpcoe/tree/master/events/2018-NEO-Blockchain-Vancouver)]
+  > The Ethereum community, key developers and researchers and others have always recognized scalability as perhaps the single most important key technical challenge that needs to be solved in order for blockchain applications to reach mass adoption. Blockchain scalability is difficult primarily because a typical blockchain design requires every node in the network to process every transaction, which limits the transaction processing capacity of the entire system to the capacity of a single node.[Ethereum scalability research and development subsidy programs, Vitalik Buterin, Ethereum Founder](https://blog.ethereum.org/2018/01/02/ethereum-scalability-research-development-subsidy-programs/)
 
-## Driving a Resugence in the Enterprise Adoption of Microsoft Azure, .NET, Visual Studio and C#
+  > Ethereum is a *one-trick pony x 1500* because the Solidity language used for developing Ethereum smart contracts is only able to represent a simple, single entity per smart contract. [[NEO Blockchain Vancouver Meetup Kick-off Presentation, Slide 59, Michael Herman](https://github.com/mwherman2000/neo-csharpcoe/tree/master/events/2018-NEO-Blockchain-Vancouver)]
+
+## Driving a Resurgence in Enterprise Adoption of Microsoft Azure, .NET, Visual Studio and C#
 
 * Millennials have a high attraction the blockchain investing and trading [[CNBC: Cryptocurrencies are the 'greatest opportunity' to get millennials to trade: TD Ameritrade](https://www.cnbc.com/2018/01/08/cryptocurrencies-are-the-greatest-opportunity-to-get-millennials-to-trade-td-ameritrade.html)].
 
@@ -57,20 +63,20 @@
 
 ### The Best Developer Tooling
 
-* .NET, C#, Visual Studio, and the NEO Smart Contract Visual Studio Extension is the best developer tool suite for creating smart contracts - including seemless intregation with the NEO Debugger.
+* .NET, C#, Visual Studio, and the NEO Smart Contract Visual Studio Extension is the best developer tool suite for creating smart contracts - including seamless integration with the NEO Debugger.
 
 * NEO was very clever in its integration with the Microsoft .NET compiler stack. NEO developers build what is essentially a Windows console application with `Main` method prototype that often looks something like `public static Object Main(string operation, params object[] args)` - but `Main` can take virtually any parameters and return any parameters (including simple types, an instance of a class, an array of instances of a class). 
 
-* Smart contracts are built as plain-old C# class projects. The NEO Compiler is then run as a post-build step to trancompile MSIL patterns from the assembly (DLL file) into a .AVM NEO VM byte code file.
+* Smart contracts are built as plain-old C# class projects. The NEO Compiler is then run as a post-build step to transcompile MSIL patterns from the assembly (DLL file) into a .AVM NEO VM byte code file.
 
-* All of the features of the Visual Studio IDE and .NET/C# environment are avaiable include the .NET/C# optimizing compiler features which have been demonstrated to reduce NEO VM by 25%. This is a key capability because every NEO VM instruction executed is tracked and accounted for. ([NEO System Fees](http://docs.neo.org/en-us/sc/systemfees.html)).
+* All of the features of the Visual Studio IDE and .NET/C# environment are available include the .NET/C# optimizing compiler features which have been demonstrated to reduce NEO VM by 25%. This is a key capability because every NEO VM instruction executed is tracked and accounted for. ([NEO System Fees](http://docs.neo.org/en-us/sc/systemfees.html)).
 
 ### Enterprise Distributed Applications and Smart Data: Enabled by .NET and C#
 
 What is unique about Enterprise Distributed Application development on a blockchain?  ...the NEO Blockchain or any other blockchain.
 
 * While people talk mostly about *smart contracts* in the context of programmable blockchain development, it is really about *Smart Data* living on the public Internet (as well as private networks and consortium networks).  Smart Data that is both trustful and trustless.  Trustful because a transaction has been confirmed on the NEO Blockchain, it is there forever: unchangeable and irrefutable. ...free from any form of centralized control. Trustless because once confirmed on the blockchain, the Smart Data is digitally signed and completely decentralized.
-* The only way to place data on the NEO Blockchain is to write a smart contract that will, via a NEO transaction, put it there for you. Every placement of data (C# entities) is wrapped in the code of some application's smart contract - digitially signed and deployed in the same way Smart Data is digitally signed and confirmed into the NEO Blockchain.
+* The only way to place data on the NEO Blockchain is to write a smart contract that will, via a NEO transaction, put it there for you. Every placement of data (C# entities) is wrapped in the code of some application's smart contract - digitally signed and deployed in the same way Smart Data is digitally signed and confirmed into the NEO Blockchain.
 
 * To learn more, checkout [[NEO Whitepaper](http://docs.neo.org/en-us/)]
 
