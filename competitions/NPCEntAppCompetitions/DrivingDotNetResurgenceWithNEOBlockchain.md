@@ -57,7 +57,7 @@
      * NEO Virtual Machine ([neo-vm](https://github.com/neo-project/neo-vm))
      * NEO Transcompiler ([neo-compiler](https://github.com/neo-project/neo-compiler))
      * NEO Debugger ([neo-debugger-tools](https://github.com/CityOfZion/neo-debugger-tools))
-     * NEO Soure-code Level Execution Cost Profiler ([neo-debugger-tools](https://github.com/CityOfZion/neo-debugger-tools))
+     * NEO Source-code Level Execution Cost Profiler ([neo-debugger-tools](https://github.com/CityOfZion/neo-debugger-tools))
      * NEO Developer's Wallet ([neo-gui-developer](https://github.com/CityOfZion/neo-gui-developer))
      * NEO Smart Contract Visual Studio Extension ([neo-devpack-dotnet](https://github.com/neo-project/neo-devpack-dotnet))
 
@@ -103,15 +103,15 @@ Listed in *search results order*
 | [Stackify: Most Popular and Influential Programming Languages of 2018](https://stackify.com/popular-programming-languages-2018/) | 4th (Very Long Term History Chart) | Java, C, C++, C#, Python | December 18, 2017 |
 | [GitHub: The State of the Octoverse 2017](https://octoverse.github.com/) | 8th | JS, Python, Java, Ruby, PHP | December 2017 |
 | [Gewirtz-ZDNet: Which programming languages are most popular (and what does that even mean?](http://www.zdnet.com/article/which-programming-languages-are-most-popular-and-what-does-that-even-mean/) | 6th | Java, C, Python, C++, JS | October 4, 2017 |
-| [BusinssInsider: The 15 most popular programming languages, according to the 'Facebook for programmers'](http://www.businessinsider.com/the-9-most-popular-programming-languages-according-to-the-facebook-for-programmers-2017-10) | 8th | JS, Python, Java, Ruby, PHP | October 11, 2017 |
+| [BusinessInsider: The 15 most popular programming languages, according to the 'Facebook for programmers'](http://www.businessinsider.com/the-9-most-popular-programming-languages-according-to-the-facebook-for-programmers-2017-10) | 8th | JS, Python, Java, Ruby, PHP | October 11, 2017 |
 | [CodingDojo: The 7 Most In-Demand Programming Languages of 2018 (Indeed.com)](http://www.codingdojo.com/blog/7-most-in-demand-programming-languages-of-2018/) | 5th | Java, Python, JS, C++, C# | December 13, 2017 |
 | [Medium.com/The Startup: Best 10 Programming Languages to learn in 2018](https://medium.com/swlh/best-10-programming-languages-to-learn-in-2018-2d6cbc5ffc2a) | 8th |  Swift, Ruby, PHP, C++, C | December 7, 2017 |
 | [TechRepublic: The 5 most popular programming languages among female developers](https://www.techrepublic.com/article/the-5-most-popular-programming-languages-among-female-developers/) | < 5th  | Java, JavaScript, C, C++, Python | March 1, 2018 |
-| [TechnRepublic: The 10 coding languages top developers plan to learn next](The 10 coding languages top developers plan to learn next) | <  5th | Go, Python, Scala, Kotlin, Ruby (developers are planning to learn next) | January 23, 2018 |
-| [TechnRepublic: The 10 coding languages top developers plan to learn next](The 10 coding languages top developers plan to learn next) | < 5th | JavaScript, Java, Python, C++, C (employers are looking to hire)|  January 23, 2018 |
+| [TechRepublic: The 10 coding languages top developers plan to learn next](The 10 coding languages top developers plan to learn next) | <  5th | Go, Python, Scala, Kotlin, Ruby (developers are planning to learn next) | January 23, 2018 |
+| [TechRepublic: The 10 coding languages top developers plan to learn next](The 10 coding languages top developers plan to learn next) | < 5th | JavaScript, Java, Python, C++, C (employers are looking to hire)|  January 23, 2018 |
 | [InformationWeek: 10 Most In-Demand Programming Languages of 2018](https://www.informationweek.com/devops/programming-languages/10-most-in-demand-programming-languages-of-2018/d/d-id/1330856) | 5th | Java, Python, JS, C++, C# | January 22, 2018 |
 | [Stackoverflow: Developer Survey Results 2017](https://insights.stackoverflow.com/survey/2017) "In the five years we've been collecting the Developer Survey, we've seen languages such as Python and Node.js grow in popularity, while the usage of languages like C# and C has been shrinking."| 4th | JS, SQL, Java, C#, Python | December 31, 2017 |
-| [Stackoverflow: Developer Survey Results 2017](https://insights.stackoverflow.com/survey/2017) Most Loved |  8th | Rust, Smalltalk, TypeScipt, Swift, Go  | December 31, 2017 |
+| [Stackoverflow: Developer Survey Results 2017](https://insights.stackoverflow.com/survey/2017) Most Loved |  8th | Rust, Smalltalk, TypeScript, Swift, Go  | December 31, 2017 |
 | [Stackoverflow: Developer Survey Results 2017](https://insights.stackoverflow.com/survey/2017) Most Wanted |  7th | Python, JS, Go, C++, Java | December 31, 2017 |
 | [Stackoverflow: Developer Survey Results 2017](https://insights.stackoverflow.com/survey/2017) Most Popular Languages by Occupation | 3rd - 5th | JS, SQL, C#, Java, PHP, Python, C++  | December 31, 2017 |
 
