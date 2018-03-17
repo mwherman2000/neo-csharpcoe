@@ -1,12 +1,15 @@
 ![NEO Blockchain Enterprise Distributed Applications Competition #1](./images/NPCEntApps1.jpg)
 
-# How the NEO Blockchain can drive a resurgence in the adoption of Microsoft Azure, .NET, Visual Studio and C# for Enterprise Application Development 
+# How can the NEO Blockchain driving a resurgence in the adoption of Microsoft Azure, .NET, Visual Studio and C# for Enterprise Application Development?
 
 [NEO Blockchain C# Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)
 
 ## Topics
-* Background: NEO Blockchain as an Enterprise .NET and C# Platform
-* Driving a Resurgence in Enterprise Adoption of Microsoft Azure, .NET, Visual Studio and C#
+* [Background: NEO Blockchain as an Enterprise .NET and C# Platform](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#background-neo-blockchain-as-an-enterprise-net-and-c-platform)
+* [Driving a Resurgence in Enterprise Adoption of Microsoft Azure, .NET, Visual Studio and C#](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#driving-a-resurgence-in-enterprise-adoption-of-microsoft-azure-net-visual-studio-and-c)
+* [Evidence of the NEO Blockchain's Presence and Desirability in the Developer Ecosystem]()
+* [Call to Action]()
+* [What is the NEO Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#what-is-the-neo-blockchain-c-developers-center-of-excellence)
 
 ## Background: NEO Blockchain as an Enterprise .NET and C# Platform
 
@@ -115,6 +118,13 @@ Listed in *search results order*
 | [Stackoverflow: Developer Survey Results 2017](https://insights.stackoverflow.com/survey/2017) Most Wanted |  7th | Python, JS, Go, C++, Java | December 31, 2017 |
 | [Stackoverflow: Developer Survey Results 2017](https://insights.stackoverflow.com/survey/2017) Most Popular Languages by Occupation | 3rd - 5th | JS, SQL, C#, Java, PHP, Python, C++  | December 31, 2017 |
 
+## Evidence of the NEO Blockchain's Presence and Desirability in the Developer Ecosystem
+
+TODO
+
+## Call to Action
+
+TODO
 
 ## What is the [NEO Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)?
 
