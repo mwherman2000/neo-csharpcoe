@@ -87,7 +87,7 @@
 
 ### *The Best Blockchain Developer Tool Suite*
 
-* .NET, C#, Visual Studio, and the NEO Smart Contract Visual Studio Extension is the best developer tool suite for creating smart contracts - including seamless integration with the NEO Debugger.
+* .NET, C#, Visual Studio, and the NEO Smart Contract Visual Studio Extension is the best developer tool suite for creating smart contracts - including seamless integration with the NEO Source-code Level Debugger.
 
 * NEO was very smart in its integration with the Microsoft .NET compiler stack. NEO smart contract developers build what is essentially a Windows console application with `Main` method prototype that  typically looks something like:
 
