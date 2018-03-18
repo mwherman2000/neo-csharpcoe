@@ -52,7 +52,7 @@
 
 ## Driving a Resurgence in Enterprise Adoption of Microsoft Azure, .NET, Visual Studio and C#
 
-* Millennials Developers, as a category, have a huge attraction to blockchain software development. [[ComputerWorld: Blockchain jobs continue to explode, offer salary premiums](https://www.computerworld.com/article/3235972/it-careers/blockchain-jobs-continue-to-explode-offer-salary-premiums.html)]
+* Millennials Developers, as a category, have demonstrated a huge attraction to blockchain software development. [[ComputerWorld: Blockchain jobs continue to explode, offer salary premiums](https://www.computerworld.com/article/3235972/it-careers/blockchain-jobs-continue-to-explode-offer-salary-premiums.html)]
 
    >Blockchain development is the second-hottest skill in the job market today, growing more than 200% since this time last year.
 
