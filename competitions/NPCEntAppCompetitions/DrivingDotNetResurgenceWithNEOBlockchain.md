@@ -14,7 +14,7 @@
    5. [Large Base of Current as well as Prospective .NET and C# Developers](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#large-base-of-net-and-c-developers)
 * [Call to Action](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#call-to-action)
 
-* [Appendix A - Evidence of the NEO Blockchain's Presence and Success in the Worldwide Developer Ecosystem](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#appendix-a---evidence-of-the-neo-blockchains-presence-and-success-in-the-worldwide-developer-ecosystem)
+* [Appendix A - Evidence of the NEO Blockchain's Presence and Success in the Worldwide Developer Community](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#appendix-a---evidence-of-the-neo-blockchains-presence-and-success-in-the-worldwide-developer-ecosystem)
    * NEO Switchers
    * NEO Partners
    * Worldwide Events
@@ -24,7 +24,7 @@
 * [Appendix B - Popularity of the C# Programming Language](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#appendix-b---popularity-of-the-c-programming-language)
    * Table 1. Google Search Results: "most popular programming languages"
 
-* [What is the NEO Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#what-is-the-neo-blockchain-c-developers-center-of-excellence)
+* [What is the NEO Blockchain C# Developers Center of Excellence?](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#what-is-the-neo-blockchain-c-developers-center-of-excellence)
 
 ## The NEO Blockchain as an Enterprise Distributed Applications Platform enabled by .NET and C#
 
@@ -64,7 +64,7 @@
 
    ![The Technology Adoption Curve](./images/TheTechAdoptionCurveHighlighted.png)
 
-* Microsoft can be *first to market* with a defined category of blockchain distributed applications in the [Microsoft Store](https://www.microsoft.com/store).
+* In addition, Microsoft can be *first to market* with a defined category of blockchain distributed applications in the [Microsoft Store](https://www.microsoft.com/store).
 
 ### *The Best and Only Enterprise Blockchain Platform* developed entirely on .NET
 
@@ -107,37 +107,39 @@ What is unique about Enterprise Distributed Application development on a blockch
 * The only way to place data on the NEO Blockchain is to write a smart contract that will, via a NEO transaction, store the data on the blockchain for you. 
 * Every placement of data (i.e. C# entities) on the NEO Blockchain is wrapped in the code of the distributed application's smart contract. NEO smart contracts are digitally signed and deployed in the same way Smart Data is digitally signed and confirmed into the NEO Blockchain.
 
-* To learn more, checkout [[NEO Whitepaper](http://docs.neo.org/en-us/)]
+* To learn more, checkout the [NEO Whitepaper](http://docs.neo.org/en-us/).
 
 ### Large Base of Current as well as Prospective .NET and C# Developers
 
->The large base of .NET and C# Developers = Huge opportunity to create Resurgence in the Enterprise Adoption of Microsoft Azure, .NET, Visual Studio and C#.
+>The large base of .NET and C# Developers = Huge opportunity to drive a Resurgence in the Enterprise Adoption of Microsoft Azure, .NET, Visual Studio and C#.
 
 * Incremental technology education, training, and adoption
 
 * There are several million .NET developers worldwide - possibly close to 10 million in 2018.
 
-   * >There are roughly 6 million professional developers worldwide, about 90% of whom target Windows. 4-5 million of those 6 million developers targeting Windows are Visual Basic developers. There are about 2.5 mln .NET developers. More than 60% of the Fortune 100 develop using .NET. Forrester says that 56% of enterprises in North America are choosing .NET for their development requirements vs. 44% choosing J2EE. [.NET developer statistics - a word from Microsoft, July 19, 2004](http://www.zdnet.com/article/net-developer-statistics-a-word-from-microsoft/)
+   * >There are roughly 6 million professional developers worldwide, about 90% of whom target Windows. 4-5 million of those 6 million developers targeting Windows are Visual Basic developers. There are about 2.5 mln .NET developers. More than 60% of the Fortune 100 develop using .NET. Forrester says that 56% of enterprises in North America are choosing .NET for their development requirements vs. 44% choosing J2EE. 
+   [[.NET developer statistics - a word from Microsoft, July 19, 2004](http://www.zdnet.com/article/net-developer-statistics-a-word-from-microsoft/)]
 
-   * >There are 3.1 million monthly active developers across all Microsoft products as of August 2016, of which 1.5 million C++ developers using Visual Studio and over 2 million .net developers (including C# of course), according to Amanda Silver ([MSDN: How Many Developers Use C++ vs. C# vs. Other Programming Languages, October 24, 2016](https://blogs.msdn.microsoft.com/zxue/2016/10/24/how-many-developers-use-c-vs-c-vs-other-programming-languages/)).
+   * >There are 3.1 million monthly active developers across all Microsoft products as of August 2016, of which 1.5 million C++ developers using Visual Studio and over 2 million .net developers (including C# of course), according to Amanda Silver.
+   [[MSDN: How Many Developers Use C++ vs. C# vs. Other Programming Languages, October 24, 2016](https://blogs.msdn.microsoft.com/zxue/2016/10/24/how-many-developers-use-c-vs-c-vs-other-programming-languages/)]
 
-* C# does not rank very high on most programming language surveys - typically, 5th place or less = an opportunity.
+* C# does not rank high on most programming language surveys - typically, 5th place or less = an opportunity.
 
 ## Call to Action
 
 * Support increased adoption of the NEO Blockchain as *the* .NET/C#/Visual Studio enabled enterprise distributed application platform
 
-   * New developers (Millennials Developers) are attracted to blockchain development; both smart contract development as well as full-stack applications.  They are agile and flexible - willing to quickly learn and apply new technologies and platform ...and it appears faster than any previous generation.
+   * New developers (Millennials Developers) are attracted to blockchain development; both smart contract development as well as full-stack distributed application development.  They are agile and flexible - willing to quickly learn and apply new technologies and new platforms ...and their adoption is faster than any previous generation.
    * Blockchain development is the new *shiny ball* for developers.
    * Enterprise-class distributed application development has been impossible on first generation blockchain platforms (e.g. Bitcoin) and very difficult on second generation blockchain platforms (e.g. Ethereum).
-   * Third generation blockchain platforms (i.e. the NEO Blockchain) for the first time are providing blockchain developers with the flexibility and power needed to model their Smart Data their way and not be restricted by programming environments like Ethereum/Solidity that hobble developers with unnecessary training wheels.
+   * Third generation blockchain platforms (i.e. the NEO Blockchain) for the first time are providing blockchain developers with the flexibility and power needed to model their Smart Data their way and not be restricted by programming environments like Ethereum/Solidity that hobble developers with unnecessary restraints (aka [*training wheels*](https://www.linkedin.com/feed/update/urn:li:activity:6380122600697319425/)).
 
-   The NEO Blockchain, together with the Microsoft .NET, C# and Visual Studio platform, is the first and only blockchain platform to support enterprise distributed application development on a blockchain.
+   The NEO Blockchain, together with the Microsoft .NET, C#, and Visual Studio platform, is the first and only blockchain platform to support enterprise-class distributed application development on a blockchain.
 
 * Support the NEO Blockchain Enterprise Distributed Applications Competition #1
 
- * The NEO Blockchain Enterprise Distributed Applications Competition #1 is described in detail in the [competition description](2018XXXXNPCEntAppCompetition1.md) which can be found [here](2018XXXXNPCEntAppCompetition1.md).
- * The [NEO Blockchain C# Developers Center of Excellence] is looking for a sponsor to help support this competition in the following ways:
+  * The NEO Blockchain Enterprise Distributed Applications Competition #1 is described in detail in the [competition description](2018XXXXNPCEntAppCompetition1.md) found [here](2018XXXXNPCEntAppCompetition1.md).
+  * The [NEO Blockchain C# Developers Center of Excellence]()https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#what-is-the-neo-blockchain-c-developers-center-of-excellence is looking for a sponsor to help support this competition in the following ways:
     * Co-marketing, advertising, and promotion
     * Judging (1 person at the close of submissions - end of May 2018)
     * Financial support of the prize pool: total of USD$10,000 (as described [competition description](2018XXXXNPCEntAppCompetition1.md) mentioned above)
@@ -172,7 +174,7 @@ What is unique about Enterprise Distributed Application development on a blockch
 
 ### Training and Certification
 
-* CND Certified NEO Enterprise Developer Program at York University/The Blockchain Hub, Toronto, Canada
+* CND Certified NEO Enterprise Developer Program offered by York University (The Blockchain Hub), Toronto, Canada
 
    [![CND Certified NEO Enterprise Developer Program](./images/CND.png)](http://theblockchainhub.com/cnd/)
 
