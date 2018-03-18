@@ -42,7 +42,7 @@
 
 * In addition to .NET, C#, and Visual Studio being used to implement the platform's core infrastructure components and developer tools, C# is the reference language for developing smart contracts deployed on the NEO Blockchain.  Other languages such as Python, Java, JavaScript, and Golang are also supported for smart contract development.
 
-* The NEO Blockchain is currently the #2 programmable blockchain platform. However, Ethereum, the #1 programmable blockchain platform, has show-stopping limitations in terms of scalability, performance, and capability as an enterprise distributed applications platform as exemplified by the following quotations:
+* The NEO Blockchain is currently the #2 programmable blockchain platform. However, Ethereum, the #1 programmable blockchain platform, has show-stopping limitations in terms of scalability, performance, and capability from an enterprise distributed applications platform perspective. These are exemplified by the following quotations:
 
   > The Ethereum community, key developers and researchers and others have always recognized scalability as perhaps the single most important key technical challenge that needs to be solved in order for blockchain applications to reach mass adoption. Blockchain scalability is difficult primarily because a typical blockchain design requires every node in the network to process every transaction, which limits the transaction processing capacity of the entire system to the capacity of a single node.[[Ethereum scalability research and development subsidy programs, Vitalik Buterin, Ethereum Founder, January 2, 2018](https://blog.ethereum.org/2018/01/02/ethereum-scalability-research-development-subsidy-programs/)]
 
