@@ -52,8 +52,6 @@
 
 ## Driving a Resurgence in Enterprise Adoption of Microsoft Azure, .NET, Visual Studio and C#
 
-* Millennials have demonstrated a high attraction to blockchain investing and trading. [[CNBC: Cryptocurrencies are the 'greatest opportunity' to get millennials to trade: TD Ameritrade](https://www.cnbc.com/2018/01/08/cryptocurrencies-are-the-greatest-opportunity-to-get-millennials-to-trade-td-ameritrade.html)]
-
 * Millennials Developers, as a category, have a huge attraction to blockchain software development. [[ComputerWorld: Blockchain jobs continue to explode, offer salary premiums](https://www.computerworld.com/article/3235972/it-careers/blockchain-jobs-continue-to-explode-offer-salary-premiums.html)]
 
    >Blockchain development is the second-hottest skill in the job market today, growing more than 200% since this time last year.
