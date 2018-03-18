@@ -64,7 +64,7 @@
 
    ![The Technology Adoption Curve](./images/TheTechAdoptionCurveHighlighted.png)
 
-* In addition, Microsoft can be *first to market* with a defined category of blockchain distributed applications in the [Microsoft Store](https://www.microsoft.com/store).
+* In addition, Microsoft has the additional advantage of being *first to market* with a defined category of blockchain distributed applications in the [Microsoft Store](https://www.microsoft.com/store).
 
 ### *The Best Enterprise Blockchain Platform* developed entirely on .NET
 
