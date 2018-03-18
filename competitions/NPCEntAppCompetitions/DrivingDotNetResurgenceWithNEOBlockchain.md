@@ -216,7 +216,6 @@ The large base of current as well as prospective .NET and C# Developers = **huge
    * [NEO C# Developers Center of Excellence (neo-csharpcoe)](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)
    * [NEO Blockchain Quick Start Guide for .NET Developers](https://github.com/mwherman2000/neo-dotnetquickstart/blob/master/README.md)]
    * [NEO Tutorials  (C#, Java, Python), API docs](http://docs.NEO.org)
-   * [NEO DevCon “Th New Vision” Keynote by NEO Founder](https://www.youtube.com/watch?time_continue=3&v=th7jZlmoZBc)
    * [The NEO Project](https://github.com/neo-project)
    * [City of Zion awesome-NEO project: Developer Docs](https://github.com/CityOfZion/awesome-NEO/#developer-documentation) 
 
