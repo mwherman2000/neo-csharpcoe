@@ -1,4 +1,4 @@
-﻿# neo-csharpcoe
+﻿# NEO Blockchain C# Developers Center of Excellence (neo-csharpcoe)
 
 [NEO Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)
 
