@@ -48,7 +48,7 @@
 
   > Ethereum is a *one-trick pony x 1500* because the Solidity language used for developing Ethereum smart contracts is only able to represent a simple, single entity per smart contract. [[NEO Blockchain Vancouver Meetup Kick-off Presentation, Slide 59, Michael Herman, March 16, 2018](https://github.com/mwherman2000/neo-csharpcoe/tree/master/events/2018-NEO-Blockchain-Vancouver)]
 
-* C#, using the NEO Persistable Classes Platform, is the only smart contract development environment capable of supporting efficient, enterprise-class distributed application development.
+* C#, using the NEO Persistable Classes Platform, is the only smart contract development environment capable of supporting efficient, enterprise-class distributed application development [[NEO Persistable Classes (NPC) Platform](https://github.com/mwherman2000/neo-persistableclasses/blob/master/README.md)].
 
 ## Driving a Resurgence in Enterprise Adoption of Microsoft Azure, .NET, Visual Studio and C#
 
