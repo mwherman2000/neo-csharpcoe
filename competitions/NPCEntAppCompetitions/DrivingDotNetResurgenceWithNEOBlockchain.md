@@ -72,7 +72,7 @@
 
    * C# is the reference language for developing smart contracts deployed on the NEO Blockchain. Visual Studio is the reference IDE for smart contract development. [[NEO Blockchain C# Developers Center of Excellence: NEO Blockchain Quick Start Guide for .NET Developers](https://github.com/mwherman2000/neo-dotnetquickstart/blob/master/README.md)]
 
-   * .NET, C#, and Visual Studio are the tools used to create all of the NEO Blockchain's core components and all of these are open source projects on GitHub. This means that the same .NET, C# and Visual Studio skills and experience used to create NEO smart contracts can also be used to read, understand, and contribute to the NEO core components. For example, the NEO VM's `Execution Engine` is a straight-forward C# class that can be self-hosted in **any** .NET application very simply - even, non-blockchain applications. [[The Neo Project (neo-project)](https://github.com/neo-project)]
+   * .NET, C#, and Visual Studio are the tools used to create all of the NEO Blockchain's core components and all of these are open source projects on GitHub. This means that the same .NET, C# and Visual Studio skills and experience used to create NEO smart contracts can also be used to read, understand, and contribute to the NEO core components. For example, the NEO VM's `Execution Engine` is a straight-forward C# class that can be self-hosted in **any** .NET application very simply - including non-blockchain applications. [[The Neo Project (neo-project)](https://github.com/neo-project)]
 
    * The NEO core infrastructure components and developer tool suite (and their corresponding open source projects) can be found on [GitHub](http:github):
 
