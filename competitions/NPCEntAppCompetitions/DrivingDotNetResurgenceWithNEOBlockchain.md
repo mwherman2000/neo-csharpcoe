@@ -52,10 +52,6 @@
 
 ## Driving a Resurgence in Enterprise Adoption of Microsoft Azure, .NET, Visual Studio and C#
 
-* Millennials Developers, as a category, have demonstrated a huge attraction to blockchain software development. [[ComputerWorld: Blockchain jobs continue to explode, offer salary premiums](https://www.computerworld.com/article/3235972/it-careers/blockchain-jobs-continue-to-explode-offer-salary-premiums.html)]
-
-   >Blockchain development is the second-hottest skill in the job market today, growing more than 200% since this time last year.
-
 ### *First Mover Advantage in a New Market*: Blockchain Distributed Applications Development
 
 * Blockchain development, specifically enterprise distributed applications and smart contract development, is a new innovator/early adopter market for developers and partners as well as enterprise organizations.  This represents a huge *first mover advantage* opportunity for .NET and C# by supporting and leveraging the NEO Blockchain as a platform - attracting: a) more developers, b) more partners, and c) more organizations and customers to the Microsoft ecosystem.
@@ -127,7 +123,11 @@ The large base of current as well as prospective .NET and C# Developers = **huge
    * >There are 3.1 million monthly active developers across all Microsoft products as of August 2016, of which 1.5 million C++ developers using Visual Studio and over 2 million .net developers (including C# of course), according to Amanda Silver.
    [[MSDN: How Many Developers Use C++ vs. C# vs. Other Programming Languages, October 24, 2016](https://blogs.msdn.microsoft.com/zxue/2016/10/24/how-many-developers-use-c-vs-c-vs-other-programming-languages/)]
 
-* C# does not rank high on most programming language surveys - typically, 5th place or less = an opportunity to grow and increase developer adoption and satisfaction of the .NET, C# and Visual Studio platform. See [Appendix B - Popularity of the C# Programming Language](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#appendix-b---popularity-of-the-c-programming-language).
+   * Millennials Developers, as a category, have demonstrated a huge attraction to blockchain software development. [[ComputerWorld: Blockchain jobs continue to explode, offer salary premiums](https://www.computerworld.com/article/3235972/it-careers/blockchain-jobs-continue-to-explode-offer-salary-premiums.html)]
+
+      >Blockchain development is the second-hottest skill in the job market today, growing more than 200% since this time last year.
+   
+   * C# does not rank high on most programming language surveys - typically, 5th place or less = an opportunity to grow and increase developer adoption and satisfaction of the .NET, C# and Visual Studio platform. See [Appendix B - Popularity of the C# Programming Language](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#appendix-b---popularity-of-the-c-programming-language).
 
 ## Call to Action
 
