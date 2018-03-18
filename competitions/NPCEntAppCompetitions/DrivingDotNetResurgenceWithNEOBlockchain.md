@@ -68,7 +68,7 @@
 
    * .NET, C#, and Visual Studio are the tools used to create all of the NEO Blockchain's core components and all of these are open source projects on GitHub. This means that the same .NET, C# and Visual Studio skills and experience used to create NEO smart contracts can also be used to read, understand, and contribute to the NEO core components. For example, the NEO VM's `Execution Engine` is a straight-forward C# class that can be self-hosted in **any** .NET application very simply - including non-blockchain applications. [[The NEO Project (neo-project)](https://github.com/neo-project) and [NEO Virtual Machine (neo-vm)](https://github.com/neo-project/neo-vm)]
 
-   * The NEO core infrastructure components and developer tool suite (and their corresponding open source projects) can be found on [GitHub](http:github):
+   * The complete source code and documentation for the NEO core infrastructure components and developer tool suite (and their corresponding open source projects) can be found on [GitHub](http:github):
 
      * NEO Consensus Node ([neo-cli](https://github.com/neo-project/neo-cli))
      * NEO Virtual Machine ([neo-vm](https://github.com/neo-project/neo-vm))
