@@ -138,7 +138,7 @@ The large base of current as well as prospective .NET and C# Developers = **huge
    * Enterprise-class distributed application development has been impossible on first generation blockchain platforms (e.g. Bitcoin) and very difficult on second generation blockchain platforms (e.g. Ethereum).
    * Third generation blockchain platforms (i.e. the NEO Blockchain) for the first time are providing blockchain developers with the flexibility and power needed to model their Smart Data their way and not be restricted by programming environments like Ethereum/Solidity that hobble developers with unnecessary restraints (aka [*training wheels*](https://www.linkedin.com/feed/update/urn:li:activity:6380122600697319425/)).
 
-   The NEO Blockchain, together with the Microsoft .NET, C#, and Visual Studio platform, is the first and only blockchain platform to support enterprise-class distributed application development on a blockchain.
+   The NEO Blockchain, together with the Microsoft .NET, C#, and Visual Studio platform, is the first and only blockchain platform capable of supporting enterprise-class distributed application development on a blockchain.
 
 * Support the NEO Blockchain Enterprise Distributed Applications Competition #1
 
