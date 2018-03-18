@@ -95,7 +95,7 @@
 
 * Smart contracts are built as plain-old C# class projects. The NEO Compiler is run as a Visual Studio post-build step to transcompile MSIL patterns from the standard .NET assembly (DLL file) into a NEO VM byte code file - ready to be deployed on the NEO Blockchain and executed in the NEO VM.
 
-* All of the features of the Visual Studio IDE and .NET/C# environment are available for NEO smart contract development - including, for example, the .NET/C# optimizing compiler features which have been demonstrated to reduce NEO VM execution costs by as much as 25% to 50%. This is a key capability because every NEO VM instruction executed during a smart contract invocation is tracked and accounted for [[NEO System Fees](http://docs.NEO.org/en-us/sc/systemfees.html)].
+* All of the features of the Visual Studio IDE and .NET/C# environment are available for NEO smart contract development - including, for example, the .NET/C# optimizing compiler features which have been shown to reduce NEO VM execution costs by as much as 25% to 50%. This is a key capability because every NEO VM instruction executed during a smart contract invocation is tracked and accounted for [[NEO System Fees](http://docs.NEO.org/en-us/sc/systemfees.html)].
 
 ### *Enterprise Distributed Applications and Smart Data*: Only enabled by .NET and C#
 
