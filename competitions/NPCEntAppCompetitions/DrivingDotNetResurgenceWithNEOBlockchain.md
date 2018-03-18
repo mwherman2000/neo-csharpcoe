@@ -34,7 +34,7 @@
   * NEO Consensus Node
   * NEO Virtual Machine
   * NEO Transcompiler
-  * NEO Debugger
+  * NEO Source-code Level Debugger
   * NEO Source-code Level Execution Cost Profiler
   * NEO Developer's Wallet
   * NEO Smart Contract Visual Studio Extension
@@ -79,7 +79,7 @@
      * NEO Consensus Node ([neo-cli](https://github.com/neo-project/neo-cli))
      * NEO Virtual Machine ([neo-vm](https://github.com/neo-project/neo-vm))
      * NEO Transcompiler ([neo-compiler](https://github.com/neo-project/neo-compiler))
-     * NEO Debugger ([neo-debugger-tools](https://github.com/CityOfZion/neo-debugger-tools))
+     * NEO Source-code Level Debugger ([neo-debugger-tools](https://github.com/CityOfZion/neo-debugger-tools))
      * NEO Source-code Level Execution Cost Profiler ([neo-debugger-tools](https://github.com/CityOfZion/neo-debugger-tools))
      * NEO Developer's Wallet ([neo-gui-developer](https://github.com/CityOfZion/neo-gui-developer))
      * NEO Smart Contract Visual Studio Extension ([neo-devpack-dotnet](https://github.com/neo-project/neo-devpack-dotnet))
