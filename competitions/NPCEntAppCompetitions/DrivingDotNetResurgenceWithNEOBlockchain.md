@@ -101,13 +101,13 @@
 
 * Smart contracts are built as plain-old C# class projects. The NEO Compiler is then run as a post-build step to transcompile MSIL patterns from a standard .NET assembly (DLL file) into a .AVM NEO VM byte code file.
 
-* All of the features of the Visual Studio IDE and .NET/C# environment are available for NEO smart contract development - including, for example, the .NET/C# optimizing compiler features which have been demonstrated to reduce NEO VM execution costs by as much as 25% to 50%. This is a key capability because every NEO VM instruction executed during a smart contract invocation is tracked and accounted for. [[NEO System Fees](http://docs.NEO.org/en-us/sc/systemfees.html)].
+* All of the features of the Visual Studio IDE and .NET/C# environment are available for NEO smart contract development - including, for example, the .NET/C# optimizing compiler features which have been demonstrated to reduce NEO VM execution costs by as much as 25% to 50%. This is a key capability because every NEO VM instruction executed during a smart contract invocation is tracked and accounted for [[NEO System Fees](http://docs.NEO.org/en-us/sc/systemfees.html)].
 
 ### *Enterprise Distributed Applications and Smart Data*: Only enabled by .NET and C#
 
 What is unique about Enterprise Distributed Application development on a blockchain?  ...the NEO Blockchain or any other blockchain.
 
-* While people talk mostly about *smart contracts* in the context of programmable blockchain development, it is really about *Smart Data* living on the public Internet (as well as private networks and consortium networks) - Smart Data that is both trustful and trustless.  
+* While people mostly talk about *smart contracts* in the context of programmable blockchain development, it is really about *Smart Data* living on the public Internet (as well as private networks and consortium networks) - Smart Data that is both trustful and trustless.  
 * Trustful because when a transaction has been confirmed on the NEO Blockchain, the Smart Data is recorded there forever: unchangeable and irrefutable. 
 * Trustless because once confirmed on the blockchain, the Smart Data is digitally signed and completely decentralized ...free of any centralized control.
 * The only way to place data on the NEO Blockchain is to write a smart contract that will, via a NEO transaction, store the data on the blockchain for you. 
