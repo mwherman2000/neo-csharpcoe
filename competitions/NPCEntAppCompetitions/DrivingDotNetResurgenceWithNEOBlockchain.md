@@ -133,7 +133,7 @@ The large base of current as well as prospective .NET and C# Developers = **huge
 
 ## Call to Action
 
-* Support increased adoption of the NEO Blockchain as *the* .NET/C#/Visual Studio enabled enterprise distributed application platform
+* Support increased adoption of the NEO Blockchain as *the .NET/C#/Visual Studio enabled enterprise distributed application platform*
 
    * New developers (Millennials Developers) are attracted to blockchain development; both smart contract development as well as full-stack distributed application development.  They are agile and flexible - willing to quickly learn and apply new technologies and new platforms ...and their adoption is faster than any previous generation.
    * Blockchain development is the new *shiny ball* for developers.
