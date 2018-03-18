@@ -60,7 +60,7 @@
 
 ### *First Mover Advantage in a New Market*: Blockchain Distributed Applications Development
 
-* Blockchain development, specifically distributed applications and smart contract development, is a new innovator/early adopter market for developers and partners as well as enterprise organizations.  This represents a huge *first mover advantage* opportunity for .NET and C# by supporting and leveraging the NEO Blockchain as a platform - attracting: a) more developers, b) more partners, and c) more organizations and customers to the Microsoft ecosystem.
+* Blockchain development, specifically enterprise distributed applications and smart contract development, is a new innovator/early adopter market for developers and partners as well as enterprise organizations.  This represents a huge *first mover advantage* opportunity for .NET and C# by supporting and leveraging the NEO Blockchain as a platform - attracting: a) more developers, b) more partners, and c) more organizations and customers to the Microsoft ecosystem.
 
    ![The Technology Adoption Curve](./images/TheTechAdoptionCurveHighlighted.png)
 
