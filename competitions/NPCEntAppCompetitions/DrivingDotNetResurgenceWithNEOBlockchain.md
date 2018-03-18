@@ -148,7 +148,7 @@ The large base of current as well as prospective .NET and C# Developers = **huge
   * The [NEO Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#what-is-the-neo-blockchain-c-developers-center-of-excellence) is looking for a sponsor to help support this competition in the following ways:
     * Co-marketing, advertising, and promotion
     * Judging (1 person at the close of submissions - end of May 2018)
-    * Financial support of the prize pool: total of USD$10,000 (as described in the [competition description](2018XXXXNPCEntAppCompetition1.md) mentioned above)
+    * Financial support of the prize pool: total of USD$10,000 for MSFT FY2018 (as described in the [competition description](2018XXXXNPCEntAppCompetition1.md) mentioned above)
 
 ## Appendix A - Evidence of the NEO Blockchain's Presence and Success in the Worldwide Developer Community
 
@@ -172,11 +172,11 @@ The large base of current as well as prospective .NET and C# Developers = **huge
 
 * NEO Events - Tours, Workshops, Hackathons, Meetups
 
-   [![NEO Events 1](./images/NEOevents1.png)](https://NEO.org)
+   [![NEO Events 1](./images/neoevents1.png)](https://NEO.org)
 
-   [![NEO Events 2](./images/NEOevents2.png)](https://NEO.org)
+   [![NEO Events 2](./images/neoevents2.png)](https://NEO.org)
 
-   [![NEO Events 3](./images/NEOevents3.png)](https://NEO.org)
+   [![NEO Events 3](./images/neoevents3.png)](https://NEO.org)
 
 ### Training and Certification
 
