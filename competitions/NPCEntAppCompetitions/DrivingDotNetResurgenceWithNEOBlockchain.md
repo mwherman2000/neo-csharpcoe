@@ -40,7 +40,7 @@
   * NEO Smart Contract Visual Studio Extension
   * NEO Persistable Classes (NPC) Platform
 
-* In addition to being used to implement the platform's core infrastructure components and developer tools, C# is the reference language for developing smart contracts deployed on the NEO Blockchain.  Other languages such as Python, Java, JavaScript, and Golang are also supported for smart contract development.
+* In addition to .NET, C#, and Visual Studio being used to implement the platform's core infrastructure components and developer tools, C# is the reference language for developing smart contracts deployed on the NEO Blockchain.  Other languages such as Python, Java, JavaScript, and Golang are also supported for smart contract development.
 
 * The NEO Blockchain is currently the #2 programmable blockchain platform. However, Ethereum, the #1 programmable blockchain platform, has show-stopping limitations in terms of scalability, performance, and capability as an enterprise distributed applications platform as exemplified by the following quotations:
 
