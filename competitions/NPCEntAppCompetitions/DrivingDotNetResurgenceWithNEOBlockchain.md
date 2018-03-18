@@ -127,7 +127,7 @@ The large base of current as well as prospective .NET and C# Developers = **huge
 
       >Blockchain development is the second-hottest skill in the job market today, growing more than 200% since this time last year.
    
-   * C# does not rank high on most programming language surveys - typically, 5th place or less = an opportunity to significantly grow and increase developer adoption and satisfaction of the .NET, C# and Visual Studio platform. See [Appendix B - Popularity of the C# Programming Language](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#appendix-b---popularity-of-the-c-programming-language).
+   * C# does not rank high on most programming language surveys - typically, 5th place or less = *an opportunity to significantly grow and increase developer adoption and satisfaction of the .NET, C#, and Visual Studio platform*. See [Appendix B - Popularity of the C# Programming Language](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#appendix-b---popularity-of-the-c-programming-language).
 
 ## Call to Action
 
