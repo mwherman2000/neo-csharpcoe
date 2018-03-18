@@ -29,7 +29,7 @@
 ## The NEO Blockchain: The Enterprise Distributed Applications Platform Enabled by .NET and C#
 
 * The NEO Blockchain is an open source, programmable blockchain platform for enterprise distributed applications.
-* All of the NEO Blockchain core infrastructure components as well as the NEO developer tool suite are written entirely using .NET, C# and Visual Studio including:
+* All of the NEO Blockchain core infrastructure components as well as the NEO developer tool suite are written entirely using .NET, C# and Visual Studio; including:
 
   * NEO Consensus Node
   * NEO Virtual Machine
