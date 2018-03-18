@@ -91,7 +91,7 @@
 
   `Main` can take virtually any parameters and return any parameters (including simple types, an instance of a class, an array of instances of a class) - the above  prototype is a common pattern.
 
-* As in conventional C# development, `Main` can instantiate instances of additional classes and call their methods to perform work on the NEO Blockchain - on behalf of an off-chain client or server-side application. 
+* As in conventional C# development, `Main` can instantiate instances of additional classes and call their methods to perform work on the NEO Blockchain on behalf of an off-chain client or server-side application. 
 
 * Smart contracts are built as plain-old C# class projects. The NEO Compiler is run as a Visual Studio post-build step to transcompile MSIL patterns from the standard .NET assembly (DLL file) into a NEO VM byte code file - ready to be deployed on the NEO Blockchain and executed in the NEO VM.
 
