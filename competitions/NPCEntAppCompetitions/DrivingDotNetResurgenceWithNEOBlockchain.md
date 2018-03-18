@@ -86,7 +86,7 @@
 * NEO was very smart in its integration with the Microsoft .NET compiler stack. NEO smart contract developers build what is essentially a Windows console application with a `Main` method prototype that typically looks something like:
 
    ```csharp
-   public static Object Main(string operation, params object[] args)
+   public static object[] Main(string operation, params object[] args)
    ```
 
   `Main` can take virtually any parameters and return any parameters (including simple types, an instance of a class, an array of instances of a class) - the above  prototype is a common pattern.
