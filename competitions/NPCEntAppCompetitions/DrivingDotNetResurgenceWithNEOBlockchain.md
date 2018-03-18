@@ -5,10 +5,10 @@
 [NEO Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)
 
 ## Outline
-* [The NEO Blockchain as an Enterprise Distributed Applications Platform enabled by .NET and C#](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#the-neo-blockchain-as-an-enterprise-distributed-applications-platform-enabled-by-net-and-c)
+* [The NEO Blockchain: The Enterprise Distributed Applications Platform Enabled by .NET and C#](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#the-neo-blockchain-the-enterprise-distributed-applications-platform-enabled-by-net-and-c)
 * [Driving a Resurgence in Enterprise Adoption of Microsoft Azure, .NET, Visual Studio and C#](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#driving-a-resurgence-in-enterprise-adoption-of-microsoft-azure-net-visual-studio-and-c)
    1. [*First Mover Advantage in a New Market*: Blockchain Distributed Applications Development](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#first-mover-advantage-in-a-new-market-blockchain-distributed-applications-development)
-   2. [*The Best and Only Enterprise Blockchain Platform* developed entirely on .NET](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#the-best-and-only-enterprise-blockchain-platform-developed-entirely-on-net)
+   2. [*The Best Enterprise Blockchain Platform* developed entirely on .NET](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#the-best-enterprise-blockchain-platform-developed-entirely-on-net)
    3. [*The Best Blockchain Developer Tool Suite*](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#the-best-blockchain-developer-tool-suite)
    4. [*Enterprise Distributed Applications and Smart Data*: Only enabled by .NET and C#](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#enterprise-distributed-applications-and-smart-data-only-enabled-by-net-and-c)
    5. [Large Base of Current as well as Prospective .NET and C# Developers](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#large-base-of-current-as-well-as-prospective-net-and-c-developers)
@@ -26,9 +26,9 @@
 
 * [What is the NEO Blockchain C# Developers Center of Excellence?](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#what-is-the-neo-blockchain-c-developers-center-of-excellence)
 
-## The NEO Blockchain as an Enterprise Distributed Applications Platform enabled by .NET and C#
+## The NEO Blockchain: The Enterprise Distributed Applications Platform Enabled by .NET and C#
 
-* The NEO Blockchain is an open source platform for enterprise distributed applications.
+* The NEO Blockchain is an open source, programmable blockchain platform for enterprise distributed applications.
 * All of the NEO Blockchain core infrastructure components as well as the NEO developer tool suite are written entirely using .NET, C# and Visual Studio including:
 
   * NEO Consensus Node
@@ -66,7 +66,7 @@
 
 * In addition, Microsoft can be *first to market* with a defined category of blockchain distributed applications in the [Microsoft Store](https://www.microsoft.com/store).
 
-### *The Best and Only Enterprise Blockchain Platform* developed entirely on .NET
+### *The Best Enterprise Blockchain Platform* developed entirely on .NET
 
 * As reiterated previously, the NEO Blockchain is the only programmable blockchain platform that written entirely in .NET and C# using Visual Studio.  This has multiple benefits:
 
