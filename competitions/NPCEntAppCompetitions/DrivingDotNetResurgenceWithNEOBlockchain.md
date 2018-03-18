@@ -5,16 +5,16 @@
 [NEO Blockchain C# Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)
 
 ## Outline
-* [The NEO Blockchain as an Enterprise Distributed Applications Platform enabled by .NET and C#](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#background-neo-blockchain-as-an-enterprise-net-and-c-platform)
+* [The NEO Blockchain as an Enterprise Distributed Applications Platform enabled by .NET and C#](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#the-neo-blockchain-as-an-enterprise-distributed-applications-platform-enabled-by-net-and-c)
 * [Driving a Resurgence in Enterprise Adoption of Microsoft Azure, .NET, Visual Studio and C#](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#driving-a-resurgence-in-enterprise-adoption-of-microsoft-azure-net-visual-studio-and-c)
-   1. [*First Mover Advantage in a New Market*: Blockchain Distributed Applications Development](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#first-mover-advantage-in-a-new-market-distributed-applications-development)
-   2. [*The Best and Only Enterprise Blockchain Platform* developed entirely on .NET](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#the-best-and-only-blockchain-platform-developed-entirely-on-net)
+   1. [*First Mover Advantage in a New Market*: Blockchain Distributed Applications Development](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#first-mover-advantage-in-a-new-market-blockchain-distributed-applications-development)
+   2. [*The Best and Only Enterprise Blockchain Platform* developed entirely on .NET](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#the-best-and-only-enterprise-blockchain-platform-developed-entirely-on-net)
    3. [*The Best Blockchain Developer Tool Suite*](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#the-best-blockchain-developer-tool-suite)
-   4. [*Enterprise Distributed Applications and Smart Data*: Only enabled by .NET and C#](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#enterprise-distributed-applications-and-smart-data-enabled-by-net-and-c)
-   5. [Large Base of Current as well as Prospective .NET and C# Developers](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#large-base-of-net-and-c-developers)
+   4. [*Enterprise Distributed Applications and Smart Data*: Only enabled by .NET and C#](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#enterprise-distributed-applications-and-smart-data-only-enabled-by-net-and-c)
+   5. [Large Base of Current as well as Prospective .NET and C# Developers](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#large-base-of-current-as-well-as-prospective-net-and-c-developers)
 * [Call to Action](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#call-to-action)
 
-* [Appendix A - Evidence of the NEO Blockchain's Presence and Success in the Worldwide Developer Community](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#appendix-a---evidence-of-the-neo-blockchains-presence-and-success-in-the-worldwide-developer-ecosystem)
+* [Appendix A - Evidence of the NEO Blockchain's Presence and Success in the Worldwide Developer Community](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#appendix-a---evidence-of-the-neo-blockchains-presence-and-success-in-the-worldwide-developer-community)
    * NEO Switchers
    * NEO Partners
    * Worldwide Events
@@ -123,7 +123,7 @@ What is unique about Enterprise Distributed Application development on a blockch
    * >There are 3.1 million monthly active developers across all Microsoft products as of August 2016, of which 1.5 million C++ developers using Visual Studio and over 2 million .net developers (including C# of course), according to Amanda Silver.
    [[MSDN: How Many Developers Use C++ vs. C# vs. Other Programming Languages, October 24, 2016](https://blogs.msdn.microsoft.com/zxue/2016/10/24/how-many-developers-use-c-vs-c-vs-other-programming-languages/)]
 
-* C# does not rank high on most programming language surveys - typically, 5th place or less = an opportunity.
+* C# does not rank high on most programming language surveys - typically, 5th place or less = an opportunity. See [Appendix B - Popularity of the C# Programming Language](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#appendix-b---popularity-of-the-c-programming-language).
 
 ## Call to Action
 
