@@ -117,7 +117,7 @@ What is unique about Enterprise Distributed Application development on a blockch
 
 ### Large Base of Current as well as Prospective .NET and C# Developers
 
->The large base of .NET and C# Developers = Huge opportunity to drive a Resurgence in the Enterprise Adoption of Microsoft Azure, .NET, Visual Studio and C#.
+The large base of .NET and C# Developers = Huge opportunity to drive a Resurgence in the Enterprise Adoption of Microsoft Azure, .NET, Visual Studio and C#.
 
 * Incremental technology education, training, and adoption
 
