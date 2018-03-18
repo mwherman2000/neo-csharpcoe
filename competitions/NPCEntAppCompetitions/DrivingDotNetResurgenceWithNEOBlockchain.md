@@ -142,7 +142,7 @@ The large base of current as well as prospective .NET and C# Developers = **huge
 
 * Support the NEO Blockchain Enterprise Distributed Applications Competition #1
 
-  * The NEO Blockchain Enterprise Distributed Applications Competition #1 is described in detail in the [competition description](2018XXXXNPCEntAppCompetition1.md) found [here](2018XXXXNPCEntAppCompetition1.md).
+  * The [NEO Blockchain Enterprise Distributed Applications Competition #1](2018XXXXNPCEntAppCompetition1.md) is described in detail in the [competition description](2018XXXXNPCEntAppCompetition1.md) found [here](2018XXXXNPCEntAppCompetition1.md).
   * The [NEO Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#what-is-the-neo-blockchain-c-developers-center-of-excellence) is looking for a sponsor to help support this competition in the following ways:
     * Co-marketing, advertising, and promotion
     * Judging (1 person at the close of submissions - end of May 2018)
