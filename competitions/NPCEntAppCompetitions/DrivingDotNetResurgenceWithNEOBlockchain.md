@@ -224,7 +224,7 @@ The large base of current as well as prospective .NET and C# Developers = **huge
 
 ## Appendix B - Popularity of the C# Programming Language
 
-### Table 1. Google Search Results: "[`most popular programming languages`](https://www.google.ca/search?q=most+popular+programming+languages&rlz=1C1CHBF_enCA780CA780&oq=most+popular+progra&aqs=chrome.0.0l2j69i57j0l3.12221j1j4&sourceid=chrome&ie=UTF-8)"
+### Table 1. Google Search Results: [`most popular programming languages`](https://www.google.ca/search?q=most+popular+programming+languages&rlz=1C1CHBF_enCA780CA780&oq=most+popular+progra&aqs=chrome.0.0l2j69i57j0l3.12221j1j4&sourceid=chrome&ie=UTF-8)
 
 Listed in *search results order*
 
