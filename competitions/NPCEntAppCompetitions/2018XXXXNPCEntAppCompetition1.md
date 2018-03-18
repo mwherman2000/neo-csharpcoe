@@ -2,7 +2,7 @@
 
 # NEO Blockchain Enterprise Distributed Applications Competition #1
 
-[NEO Blockchain C# Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)
+[NEO Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)
 
 ## What is the NEO Blockchain Enterprise Distributed Applications Competition #1?
 
@@ -22,11 +22,11 @@ The total value of the prizes for this competition is USD$10,000.
 
 > End Date: XXXXXXXXXX XXXX XX, 2018 23:59 (11:59PM) PST (US/Canada West Coast)
 
-All submissions must be received by the above End Date to be accepted into the competition. Submissions received after this deadline will not be accepted into this competition.
+All submissions must be received before the above End Date to be accepted into the competition. Submissions received after this deadline will not be accepted into this competition.
 
 ## Two Award Categories
 
-Submissions can be made by a project comprised of an individual or a team. A project can submit to either a single category or all competition catgories.
+A submission can be made by a project comprised of an individual or a team. A project can enter a submission to a single category or all competition categories.
 
 **Category 1. Best Enterprise Distributed Applications** 
 
@@ -45,7 +45,7 @@ Submissions can be made by a project comprised of an individual or a team. A pro
       
       a) Originality
 
-      b) Potential for re-use and sharing of the application's components across multiple projects (Reusable Entities as well as client-side patterns, entities, protocols, shared data, and other artifacts) - including actual reuse and sharing of Resuble Entities by other project submissions
+      b) Potential for re-use and sharing of the application's components across multiple projects (Reusable Entities as well as client-side patterns, entities, protocols, shared data, and other artifacts) - including actual reuse and sharing of Reusable Entities by other project submissions to this competition.
       
       c) Quality of your project's code, documentation, and videos
 
@@ -55,19 +55,19 @@ Submissions can be made by a project comprised of an individual or a team. A pro
 
    b. Your project's client application and smart contract(s) must use *at least three (3) different Reusable Entity classes*.
    
-   c. Your project can develop its own entities and/or re-use any existing Reusable Entities found in the NPC Reusable Entity Gallery [TODO]. Your project can partner with other projects to share entities, functionality, deployed Reusable Entity/smart contracts (including shared data). One Reusable Entity will be supplied in advance: `NPCCounter`. Use of `NPCounter` is optional.
+   c. Your project can develop its own entities and/or re-use existing Reusable Entities found in the NPC Reusable Entity Gallery [TODO]. Your project can partner with other projects to share entities, functionality, deployed Reusable Entity/smart contracts (including shared smart data). One Reusable Entity will be supplied in advance: `NPCCounter`. Use of `NPCounter` is optional.
 
    d. The Reusable Entities for your distributed application must be deployed on [NEO `testnet`](https://neo.org/testnet?culture=en-us). You can use any .NET technology for your client-side application: ASP.NET, WinForms, WPF, Windows Console Application, Windows Service, Azure Web Jobs, etc. You can host and deploy your client-side application anywhere that is publicly accessible/runnable by the judges; Microsoft Azure is preferred.
 
-   e. Resuble Entities must use NEO Persistable Classes Platform features; for example, your Reusable Entities/smart contracts cannot directly call `Storage.Put()` or `Storage.Get()`.
+   e. Reusable Entities must use NEO Persistable Classes Platform features; for example, your Reusable Entities/smart contracts cannot directly call `Storage.Put()` or `Storage.Get()`.
 
-   f. All source code created for your submission must be [MIT Licensed](http://www.opensource.org/licenses/MIT).
+   f. All source code created for your submission must be [MIT Licensed](http://www.opensource.org/licenses/MIT) to be license-compatible witth other NEO projects.
 
    g. **NOTE:** Re-use and sharing of Reusable Entities by other competition project submissions is *encouraged*.
 
 **Category 2: Developers Choice Awards: Best Reusable Entities** 
 
-   * NPC Reusable Entities will be voted on by any developer who enters either: a) the NEO Blockchain Enterprise Distributed Applications Competition: Best Enterprise Distributed Applications category and/or b) Best Reusable Entities category. 
+   * NPC Reusable Entities will be voted on by any developer who enters either: (a) Best Enterprise Distributed Applications category and/or (b) Best Reusable Entities category. 
 
    * The ten (10) Reusable Entities with the most votes will each win one prize.
 
@@ -79,7 +79,7 @@ Submissions can be made by a project comprised of an individual or a team. A pro
       
       a) Originality
 
-      b) Potential re-use of an entity across multiple project (smart contract patterns, entities, protocols, shared data, and other artefacts) - including actual reuse and sharing of Resuble Entities by other project submissions
+      b) Potential re-use of an entity across multiple project (smart contract patterns, entities, protocols, shared data, and other artifacts) - including actual reuse and sharing of Reusable Entities by other project submissions to this competition.
       
       c) Quality of the entity's code, documentation, and videos
 
@@ -89,13 +89,13 @@ Submissions can be made by a project comprised of an individual or a team. A pro
 
    b. Each of your Reusable Entity's methods must successfully and reliably execute using 10 NeoGas (GAS) or less.
    
-   c. If you want to submit a Reusable Entity without developing a submission for the Best Enterprise Distributed Applications category, this is possible as long as someone else's Enterprise Distributed Application project uses your Reusable Entity as part of their submission.
+   c. If you want to submit a Reusable Entity without developing a submission for the Best Enterprise Distributed Applications category, this is possible as long as another Enterprise Distributed Application project uses your Reusable Entity as part of their submission.
 
    d. Reusable Entities must use NEO Persistable Classes Platform features; for example, your Reusable Entities/smart contracts cannot directly call `Storage.Put()` or `Storage.Get()`.
 
    e. Reusable Entities submitted as part of a Best Enterprise Distributed Applications category submission must be submitted separately to the Developers Choice Awards: Best Reusable Entities category.
 
-   f. All source code created for your submission must be [MIT Licensed](http://www.opensource.org/licenses/MIT).
+   f. All source code created for your submission must be [MIT Licensed](http://www.opensource.org/licenses/MIT) to be license-compatible with other NEO projects.
    
    g. **NOTE:** Re-use and sharing of Reusable Entities by other competition project submissions is *encouraged*.
 
