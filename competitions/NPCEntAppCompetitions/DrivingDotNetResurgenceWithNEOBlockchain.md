@@ -19,7 +19,7 @@
    * NEO Partners
    * Worldwide Events
    * Training and Certification
-   * NEO Blockchain Developer Resources
+   * Additional NEO Blockchain Developer Resources
 
 * [Appendix B - Popularity of the C# Programming Language](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#appendix-b---popularity-of-the-c-programming-language)
    * Table 1. Google Search Results: "most popular programming languages"
