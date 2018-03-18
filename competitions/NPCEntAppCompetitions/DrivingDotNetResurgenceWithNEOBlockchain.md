@@ -1,15 +1,15 @@
 ![NEO Blockchain Enterprise Distributed Applications Competition #1](./images/NPCEntApps1.jpg)
 
-# How can the NEO Blockchain drive a resurgence in the adoption of Microsoft Azure, .NET, Visual Studio and C# for Enterprise Application Development?
+# How can the NEO Blockchain drive a resurgence in the adoption of Microsoft Azure, .NET, C# and Visual Studio for Enterprise Application Development?
 
 [NEO Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)
 
 ## Outline
 * [The NEO Blockchain: The Enterprise Distributed Applications Platform Enabled by .NET and C#](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#the-neo-blockchain-the-enterprise-distributed-applications-platform-enabled-by-net-and-c)
-* [Driving a Resurgence in Enterprise Adoption of Microsoft Azure, .NET, Visual Studio and C#](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#driving-a-resurgence-in-enterprise-adoption-of-microsoft-azure-net-visual-studio-and-c)
+* [Driving a Resurgence in Enterprise Adoption of Microsoft Azure, .NET, C# and Visual Studio](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#driving-a-resurgence-in-enterprise-adoption-of-microsoft-azure-net-c-and-visual-studio)
    1. [*First Mover Advantage in a New Market*: Blockchain Distributed Applications Development](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#first-mover-advantage-in-a-new-market-blockchain-distributed-applications-development)
    2. [*The Best Enterprise Blockchain Platform* developed entirely on .NET](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#the-best-enterprise-blockchain-platform-developed-entirely-on-net)
-   3. [*The Best Blockchain Developer Tool Suite*](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#the-best-blockchain-developer-tool-suite)
+   3. [*The Best Blockchain Developer Tool Suite*: .NET, C# and Visual Studio](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#the-best-blockchain-developer-tool-suite)
    4. [*Enterprise Distributed Applications and Smart Data*: Only enabled by .NET and C#](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#enterprise-distributed-applications-and-smart-data-only-enabled-by-net-and-c)
    5. [Large Base of Current as well as Prospective .NET and C# Developers](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#large-base-of-current-as-well-as-prospective-net-and-c-developers)
 * [Call to Action](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#call-to-action)
@@ -50,7 +50,7 @@
 
 * C#, using the NEO Persistable Classes Platform, is the only smart contract development environment capable of supporting efficient, enterprise-class distributed application development [[NEO Persistable Classes (NPC) Platform](https://github.com/mwherman2000/neo-persistableclasses/blob/master/README.md)].
 
-## Driving a Resurgence in Enterprise Adoption of Microsoft Azure, .NET, Visual Studio and C#
+## Driving a Resurgence in Enterprise Adoption of Microsoft Azure, .NET, C# and Visual Studio
 
 ### *First Mover Advantage in a New Market*: Blockchain Distributed Applications Development
 
@@ -79,11 +79,11 @@
   * NEO Smart Contract Visual Studio Extension ([neo-devpack-dotnet](https://github.com/neo-project/neo-devpack-dotnet))
   * NEO Persistable Classes (NPC) Platform ([neo-persistableclasses](https://github.com/mwherman2000/neo-persistableclasses/blob/master/README.md))
 
-### *The Best Blockchain Developer Tool Suite*
+### *The Best Blockchain Developer Tool Suite*: .NET, C# and Visual Studio
 
 * .NET, C#, Visual Studio, and the NEO Smart Contract Visual Studio Extension is the best developer tool suite for creating smart contracts - including seamless integration with the NEO Source-code Level Debugger and NEO Source-code Level Execution Cost Profiler.
 
-* NEO was very smart in its integration with the Microsoft .NET compiler stack. NEO smart contract developers build what is essentially a Windows console application with a `Main` method prototype that typically looks something like:
+* The NEO project was very smart in its integration with the Microsoft .NET compiler stack. NEO smart contract developers build what is essentially a Windows console application with a `Main` method prototype that typically looks something like:
 
    ```csharp
    public static object[] Main(string operation, params object[] args)
@@ -111,11 +111,11 @@ What is unique about Enterprise Distributed Application development on a blockch
 
 ### Large Base of Current as well as Prospective .NET and C# Developers
 
-The large base of current as well as prospective .NET and C# Developers = **huge opportunity to drive a Resurgence in the Enterprise Adoption of Microsoft Azure, .NET, Visual Studio and C#**.
+The large base of current as well as prospective .NET and C# Developers = **huge opportunity to drive a Resurgence in the Enterprise Adoption of Microsoft Azure, .NET, C# and Visual Studio**.
 
 * Incremental technology education, training, and adoption
 
-* There are several million .NET developers worldwide - possibly close to 10 million in 2018.
+* There are several million .NET developers worldwide - likely close to 10 million in 2018.
 
    * >There are roughly 6 million professional developers worldwide, about 90% of whom target Windows. 4-5 million of those 6 million developers targeting Windows are Visual Basic developers. There are about 2.5 mln .NET developers. More than 60% of the Fortune 100 develop using .NET. Forrester says that 56% of enterprises in North America are choosing .NET for their development requirements vs. 44% choosing J2EE. 
    [[.NET developer statistics - a word from Microsoft, July 19, 2004](http://www.zdnet.com/article/net-developer-statistics-a-word-from-microsoft/)]
@@ -123,7 +123,7 @@ The large base of current as well as prospective .NET and C# Developers = **huge
    * >There are 3.1 million monthly active developers across all Microsoft products as of August 2016, of which 1.5 million C++ developers using Visual Studio and over 2 million .net developers (including C# of course), according to Amanda Silver.
    [[MSDN: How Many Developers Use C++ vs. C# vs. Other Programming Languages, October 24, 2016](https://blogs.msdn.microsoft.com/zxue/2016/10/24/how-many-developers-use-c-vs-c-vs-other-programming-languages/)]
 
-   * Millennials Developers, as a category, have demonstrated a huge attraction to blockchain software development. [[ComputerWorld: Blockchain jobs continue to explode, offer salary premiums](https://www.computerworld.com/article/3235972/it-careers/blockchain-jobs-continue-to-explode-offer-salary-premiums.html)]
+   * Millennial Developers, as a category, have demonstrated a huge attraction to blockchain software development. [[ComputerWorld: Blockchain jobs continue to explode, offer salary premiums](https://www.computerworld.com/article/3235972/it-careers/blockchain-jobs-continue-to-explode-offer-salary-premiums.html)]
 
       >Blockchain development is the second-hottest skill in the job market today, growing more than 200% since this time last year.
    
