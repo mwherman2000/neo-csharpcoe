@@ -62,22 +62,22 @@
 
 ### *The Best Enterprise Blockchain Platform* developed entirely on .NET
 
-* As reiterated previously, the NEO Blockchain is the only programmable blockchain platform that written entirely in .NET and C# using Visual Studio.  This has multiple benefits:
+As reiterated previously, the NEO Blockchain is the only programmable blockchain platform that written entirely in .NET and C# using Visual Studio.  This has multiple benefits:
 
-   * C# is the reference language for developing smart contracts deployed on the NEO Blockchain. Visual Studio is the reference IDE for smart contract development. [[NEO Blockchain C# Developers Center of Excellence: NEO Blockchain Quick Start Guide for .NET Developers](https://github.com/mwherman2000/neo-dotnetquickstart/blob/master/README.md)]
+* C# is the reference language for developing smart contracts deployed on the NEO Blockchain. Visual Studio is the reference IDE for smart contract development. [[NEO Blockchain C# Developers Center of Excellence: NEO Blockchain Quick Start Guide for .NET Developers](https://github.com/mwherman2000/neo-dotnetquickstart/blob/master/README.md)]
 
-   * .NET, C#, and Visual Studio are the tools used to create all of the NEO Blockchain's core components and all of these are open source projects on GitHub. This means that the same .NET, C# and Visual Studio skills and experience used to create NEO smart contracts can also be used to read, understand, and contribute to the NEO core components. For example, the NEO VM's `Execution Engine` is a straight-forward C# class that can be self-hosted in **any** .NET application very simply - including non-blockchain applications. [[The NEO Project (neo-project)](https://github.com/neo-project) and [NEO Virtual Machine (neo-vm)](https://github.com/neo-project/neo-vm)]
+* .NET, C#, and Visual Studio are the tools used to create all of the NEO Blockchain's core components and all of these are open source projects on GitHub. This means that the same .NET, C# and Visual Studio skills and experience used to create NEO smart contracts can also be used to read, understand, and contribute to the NEO core components. For example, the NEO VM's `Execution Engine` is a straight-forward C# class that can be self-hosted in **any** .NET application very simply - including non-blockchain applications. [[The NEO Project (neo-project)](https://github.com/neo-project) and [NEO Virtual Machine (neo-vm)](https://github.com/neo-project/neo-vm)]
 
-   * The complete source code and documentation for the NEO core infrastructure components and developer tool suite can be found on [GitHub](https://github.com/neo-project):
+* The complete source code and documentation for the NEO core infrastructure components and developer tool suite can be found on [GitHub](https://github.com/neo-project):
 
-     * NEO Consensus Node ([neo-cli](https://github.com/neo-project/neo-cli))
-     * NEO Virtual Machine ([neo-vm](https://github.com/neo-project/neo-vm))
-     * NEO Transcompiler ([neo-compiler](https://github.com/neo-project/neo-compiler))
-     * NEO Source-code Level Debugger ([neo-debugger-tools](https://github.com/CityOfZion/neo-debugger-tools))
-     * NEO Source-code Level Execution Cost Profiler ([neo-debugger-tools](https://github.com/CityOfZion/neo-debugger-tools))
-     * NEO Developer's Wallet ([neo-gui-developer](https://github.com/CityOfZion/neo-gui-developer))
-     * NEO Smart Contract Visual Studio Extension ([neo-devpack-dotnet](https://github.com/neo-project/neo-devpack-dotnet))
-     * NEO Persistable Classes (NPC) Platform ([neo-persistableclasses](https://github.com/mwherman2000/neo-persistableclasses/blob/master/README.md))
+  * NEO Consensus Node ([neo-cli](https://github.com/neo-project/neo-cli))
+  * NEO Virtual Machine ([neo-vm](https://github.com/neo-project/neo-vm))
+  * NEO Transcompiler ([neo-compiler](https://github.com/neo-project/neo-compiler))
+  * NEO Source-code Level Debugger ([neo-debugger-tools](https://github.com/CityOfZion/neo-debugger-tools))
+  * NEO Source-code Level Execution Cost Profiler ([neo-debugger-tools](https://github.com/CityOfZion/neo-debugger-tools))
+  * NEO Developer's Wallet ([neo-gui-developer](https://github.com/CityOfZion/neo-gui-developer))
+  * NEO Smart Contract Visual Studio Extension ([neo-devpack-dotnet](https://github.com/neo-project/neo-devpack-dotnet))
+  * NEO Persistable Classes (NPC) Platform ([neo-persistableclasses](https://github.com/mwherman2000/neo-persistableclasses/blob/master/README.md))
 
 ### *The Best Blockchain Developer Tool Suite*
 
