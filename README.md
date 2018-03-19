@@ -100,6 +100,8 @@ To learn more about contributing to the `neo-csharpcoe`, click [here](https://gi
 
 * [Alex Guba@medium.com](https://medium.com/@gubanotorious) - [Creating a NEO Blockchain Hosted Private Network on Microsoft Azure in Under 30 Minutes](https://medium.com/@gubanotorious/creating-a-neo-blockchain-hosted-private-network-on-microsoft-azure-in-under-30-minutes-4d38c6bf6f3c)
 
+* [Alex Guba@medium.com](https://medium.com/@gubanotorious) - [Creating and running a NEO Node on Microsoft Azure in under 30 minutes](https://medium.com/@gubanotorious/creating-and-running-a-neo-node-on-microsoft-azure-in-under-30-minutes-ad8d79b9edf)
+
 ## Who is Michael Herman?
 
 Michael Herman (Toronto) ([photo](https://raw.githubusercontent.com/mwherman2000/neo-dotnetquickstart/master/EN-us/images/mwherman2000.jpg))
