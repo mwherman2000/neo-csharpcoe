@@ -109,7 +109,7 @@ Independent Blockchain Developer
 
 Michael Herman is a independent developer and writer who contributes to several NEO Blockchain projects including:
 * NEO developer tool suite (neo-lux, neo-debugger and neo-gui-developer projects)
-* mwherman2000/neo-persistableclasses project – home of the NEO Persistible Class Framework (NPC) for efficient entity-based smart contract development using C#.NEO
+* mwherman2000/neo-persistableclasses project – home of the NEO Persistable Class Framework (NPC) for efficient entity-based smart contract development using C#.NEO
 * mwherman2000/dotnetquickstart project – home of the NEO Blockchain Quick Start Guide for .NET Developers. 
 
 Michael is also the founder of the [NEO Blockchain C# Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md) as well as the first Canadian NEO Blockchain Meetup group (NEO Blockchain Toronto). He has helped bootstrap several additional Meetups worldwide including NEO Blockchain Vancouver, NEO Blockchain Cancun, and NEO Blockchain Turkey.
