@@ -5,7 +5,7 @@
 [NEO Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)
 
 ## Outline
-* [The NEO Blockchain: The Enterprise Distributed Applications Platform Enabled by .NET and C#](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#the-neo-blockchain-the-enterprise-distributed-applications-platform-enabled-by-net-and-c)
+* [The NEO Blockchain: The Enterprise Distributed Applications Platform Enabled by .NET and C#](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#the-neo-blockchain-the-enterprise-distributed-applications-platform-enabled-by-microsoft-azure-net-c-and-visual-studio)
 * [Driving a Resurgence in Enterprise Adoption of Microsoft Azure, .NET, C# and Visual Studio](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#driving-a-resurgence-in-enterprise-adoption-of-microsoft-azure-net-c-and-visual-studio)
    1. [*First Mover Advantage in a New Market*: Blockchain Distributed Applications Development](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#first-mover-advantage-in-a-new-market-blockchain-distributed-applications-development)
    2. [*The Best Enterprise Blockchain Platform* developed entirely on .NET](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#the-best-enterprise-blockchain-platform-developed-entirely-on-net)
