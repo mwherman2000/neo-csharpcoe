@@ -83,7 +83,7 @@
 
 * .NET, C#, Visual Studio, and the NEO Smart Contract Visual Studio Extension is the best developer tool suite for creating smart contracts - including seamless integration with the NEO Source-code Level Debugger and NEO Source-code Level Execution Cost Profiler.
 
-* The NEO project was very smart in its integration with the Microsoft .NET compiler stack. NEO smart contract developers build what is essentially a Windows console application with a `Main` method prototype that typically looks something like:
+* The NEO project was very smart in its integration with the Microsoft .NET compiler stack. NEO smart contract developers build what is essentially a Windows console application with a `Main` method prototype that typically looks something like the following:
 
    ```csharp
    public static object[] Main(string operation, params object[] args)
@@ -99,7 +99,7 @@
 
 ### *Enterprise Distributed Applications and Smart Data*: Only enabled by .NET and C#
 
-What is unique about Enterprise Distributed Application development on a blockchain?  ...the NEO Blockchain or any other blockchain.
+What is unique about Enterprise Distributed Application development on a blockchain?
 
 * While people mostly talk about *smart contracts* in the context of programmable blockchain development, it is really about *Smart Data* living on the public Internet (as well as private networks and consortium networks) - Smart Data that is both trustful and trustless.  
 * Trustful because when a transaction has been confirmed on the NEO Blockchain, the Smart Data is recorded there forever: unchangeable and irrefutable. 

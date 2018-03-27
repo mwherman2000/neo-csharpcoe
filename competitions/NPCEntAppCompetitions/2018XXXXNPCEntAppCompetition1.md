@@ -82,7 +82,7 @@ A submission can be made by a project comprised of an individual or a team. A pr
 
       | Prize | Value |
       | ----- | ----- |
-      | First place | USD$5000 |
+      | One prize | USD$5000 |
 
    * The Azure Enterprise Distributed Application Prize is independent of the other competition categories. A project is required to make a separate submission for each category. It is possible for a project to win in multiple categories.
    
