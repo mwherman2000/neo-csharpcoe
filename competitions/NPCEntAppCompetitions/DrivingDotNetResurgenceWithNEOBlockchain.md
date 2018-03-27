@@ -26,7 +26,7 @@
 
 * [What is the NEO Blockchain C# Developers Center of Excellence?](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#what-is-the-neo-blockchain-c-developers-center-of-excellence)
 
-## The NEO Blockchain: The Enterprise Distributed Applications Platform Enabled by .NET and C#
+## The NEO Blockchain: The Enterprise Distributed Applications Platform enabled by Microsoft Azure, .NET, C# and Visual Studio
 
 * The NEO Blockchain is an open source, programmable blockchain platform for enterprise distributed applications.
 * All of the NEO Blockchain core infrastructure components as well as the NEO developer tool suite are written entirely using .NET, C# and Visual Studio; including:
@@ -66,7 +66,7 @@
 
 * C# is the reference language for developing smart contracts deployed on the NEO Blockchain. Visual Studio is the reference IDE for smart contract development. [[NEO Blockchain C# Developers Center of Excellence: NEO Blockchain Quick Start Guide for .NET Developers](https://github.com/mwherman2000/neo-dotnetquickstart/blob/master/README.md)]
 
-* .NET, C#, and Visual Studio are the tools used to create all of the NEO Blockchain's core components and all of these are open source projects on GitHub. This means that the same .NET, C# and Visual Studio skills and experience used to create NEO smart contracts can also be used to read, understand, and contribute to the NEO core components. For example, the NEO VM's `Execution Engine` is a straight-forward C# class that can be self-hosted in **any** .NET application very simply - including non-blockchain applications. [[The NEO Project (neo-project)](https://github.com/neo-project) and [NEO Virtual Machine (neo-vm)](https://github.com/neo-project/neo-vm)]
+* .NET, C# and Visual Studio are the tools used to create all of the NEO Blockchain's core components and all of these are open source projects on GitHub. This means that the same .NET, C# and Visual Studio skills and experience used to create NEO smart contracts can also be used to read, understand, and contribute to the NEO core components. For example, the NEO VM's `Execution Engine` is a straight-forward C# class that can be self-hosted in **any** .NET application very simply - including non-blockchain applications. [[The NEO Project (neo-project)](https://github.com/neo-project) and [NEO Virtual Machine (neo-vm)](https://github.com/neo-project/neo-vm)]
 
 * The complete source code and documentation for the NEO core infrastructure components and developer tool suite can be found on [GitHub](https://github.com/neo-project):
 
@@ -127,7 +127,7 @@ The large base of current as well as prospective .NET and C# Developers = **huge
 
       >Blockchain development is the second-hottest skill in the job market today, growing more than 200% since this time last year.
    
-   * C# does not rank high on most programming language surveys - typically, 5th place or less = **an opportunity to significantly grow and increase developer adoption and satisfaction of the .NET, C#, and Visual Studio platform**. See [Appendix B - Popularity of the C# Programming Language](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#appendix-b---popularity-of-the-c-programming-language).
+   * C# does not rank high on most programming language surveys - typically, 5th place or less = **an opportunity to significantly grow and increase developer adoption and satisfaction of the .NET, C# and Visual Studio platform**. See [Appendix B - Popularity of the C# Programming Language](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#appendix-b---popularity-of-the-c-programming-language).
 
 ## Call to Action
 
@@ -138,15 +138,18 @@ The large base of current as well as prospective .NET and C# Developers = **huge
    * Enterprise-class distributed application development has been impossible on first generation blockchain platforms (e.g. Bitcoin) and very difficult on second generation blockchain platforms (e.g. Ethereum).
    * Third generation blockchain platforms (i.e. the NEO Blockchain) for the first time are providing blockchain developers with the flexibility and power needed to model their Smart Data their way and not be restricted by programming environments like Ethereum/Solidity that hobble developers with unnecessary restraints (aka [*training wheels*](https://www.linkedin.com/feed/update/urn:li:activity:6380122600697319425/)).
 
-   The NEO Blockchain, together with the Microsoft .NET, C#, and Visual Studio platform, is the first and only blockchain platform capable of supporting enterprise-class distributed application development on a blockchain.
+   The NEO Blockchain, together with Microsoft Azure, .NET, C# and Visual Studio, is the first and only blockchain platform capable of supporting enterprise-class distributed application development on a blockchain.
 
 * Support the NEO Blockchain Enterprise Distributed Applications Competition #1
 
   * The [NEO Blockchain Enterprise Distributed Applications Competition #1](2018XXXXNPCEntAppCompetition1.md) is described in detail in the [competition description](2018XXXXNPCEntAppCompetition1.md) found [here](2018XXXXNPCEntAppCompetition1.md).
   * The [NEO Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/competitions/NPCEntAppCompetitions/DrivingDotNetResurgenceWithNEOBlockchain.md#what-is-the-neo-blockchain-c-developers-center-of-excellence) is looking for a sponsor to help support this competition in the following ways:
     * Co-marketing, advertising, and promotion
-    * Judging (1 person at the close of submissions - end of May 2018)
-    * Financial support of the prize pool: total of USD$10,000 for MSFT FY2018 (as described in the [competition description](2018XXXXNPCEntAppCompetition1.md) mentioned above)
+    * Judging for Category 1 - Best Enterprise Distributed Application Prize
+      * 1 person at the close of submissions - end of May 2018 
+    * Judging for Category 2 - Azure Enterprise Distributed Application Prize
+      * 3 people at the close of submissions - end of May 2018
+    * Financial support of the prize pool: total of USD$15,000 for MSFT FY2018 (as described in the [competition description](2018XXXXNPCEntAppCompetition1.md) mentioned above)
 
 ## Appendix A - Evidence of the NEO Blockchain's Presence and Success in the Worldwide Developer Community
 
