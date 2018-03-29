@@ -19,10 +19,10 @@ To learn more about contributing to the `neo-csharpcoe`, click [here](https://gi
 1. NEO Blockchain Quick Start Guide for .NET Developers ([neo-dotnetquickstart](https://github.com/mwherman2000/neo-dotnetquickstart/blob/master/README.md))
 2. C#.NEO Examples ([examples-chsarp](https://github.com/mwherman2000/examples-csharp/blob/master/README.md))
 3. [What is the subset of C# supported by the NEO compiler and NEO VM?](https://github.com/mwherman2000/neo-persistibleclasses/blob/master/README.md#what-is-the-subset-of-c-supported-by-the-neo-compiler-and-neo-vm))
-4. [Alex Guba@medium.com](https://medium.com/@gubanotorious) - [Test Networks and Fund Requests for Smart Contract and dApp Testing on the NEO Blockchain](https://medium.com/@gubanotorious/test-networks-and-fund-requests-for-smart-contract-and-dapp-testing-on-the-neo-blockchain-583a1795412)
-5. C#.NEO Smart Contract Developers Guide ([neo-csguide](https://github.com/mwherman2000/neo-csguide))
-6. NEO Blockchain Architecture Reference Model (ARM) for .NET Developers ([neo-charm](https://github.com/mwherman2000/neo-charm))
-7. NEO Persistable Class (NPC) Compiler ([neo-npcc](https://github.com/mwherman2000/neo-npcc))
+4. C#.NEO Smart Contract Developers Guide ([neo-csguide](https://github.com/mwherman2000/neo-csguide))
+5. NEO Blockchain Architecture Reference Model (ARM) for .NET Developers ([neo-charm](https://github.com/mwherman2000/neo-charm))
+6. [NEO Persistable Classes (NPC) YouTube Channel](https://www.youtube.com/playlist?list=PLU-rWqHm5p46bIDXPNf4c2JP_AOkopnV5)
+7. NEO Persistable Classes (NPC) Compiler ([neo-npcc](https://github.com/mwherman2000/neo-npcc))
 8. [NEO System Fees Table](http://docs.neo.org/en-us/sc/systemfees.html)
 9. NEO Persistable Classes V2.0 - An Efficient Entity-based Platform for enterprise application development using .NET/C#, C#.NEO and the NEO Blockchain ([neo-persistableclasses](https://github.com/mwherman2000/neo-persistableclasses))
 10. NEO Blockchain Toronto Meetup/Facebook/Twitter Bootstrap Kit ([neo-meetupbootstrap](https://github.com/mwherman2000/neo-meetupbootstrap))
@@ -97,6 +97,8 @@ To learn more about contributing to the `neo-csharpcoe`, click [here](https://gi
 * [neoauth@github](https://github.com/neoauth) - [neo-local](https://github.com/neoauth/neo-local)
 
    * Tokyo meetup demo (python)
+
+* [Alex Guba@medium.com](https://medium.com/@gubanotorious) - [Test Networks and Fund Requests for Smart Contract and dApp Testing on the NEO Blockchain](https://medium.com/@gubanotorious/test-networks-and-fund-requests-for-smart-contract-and-dapp-testing-on-the-neo-blockchain-583a1795412)
 
 * [Alex Guba@medium.com](https://medium.com/@gubanotorious) - [Creating a NEO Blockchain Hosted Private Network on Microsoft Azure in Under 30 Minutes](https://medium.com/@gubanotorious/creating-a-neo-blockchain-hosted-private-network-on-microsoft-azure-in-under-30-minutes-4d38c6bf6f3c)
 
