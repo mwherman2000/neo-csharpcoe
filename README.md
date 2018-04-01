@@ -17,7 +17,7 @@ To learn more about contributing to the `neo-csharpcoe`, click [here](https://gi
 ## `neo-csharpcoe` "Top 10" List of Resources for C#.NEO Developers
 
 1. NEO Blockchain Quick Start Guide for .NET Developers ([neo-dotnetquickstart](https://github.com/mwherman2000/neo-dotnetquickstart/blob/master/README.md))
-2. C#.NEO Examples ([examples-chsarp](https://github.com/mwherman2000/examples-csharp/blob/master/README.md))
+2. Workshop for programming smart contracts with .NET, C# and Visual Studio ([csharp-smart-contract-workshop](https://github.com/mwherman2000/csharp-smart-contract-workshop/blob/master/README.md))
 3. [What is the subset of C# supported by the NEO compiler and NEO VM?](https://github.com/mwherman2000/neo-persistibleclasses/blob/master/README.md#what-is-the-subset-of-c-supported-by-the-neo-compiler-and-neo-vm))
 4. C#.NEO Smart Contract Developers Guide ([neo-csguide](https://github.com/mwherman2000/neo-csguide))
 5. NEO Blockchain Architecture Reference Model (ARM) for .NET Developers ([neo-charm](https://github.com/mwherman2000/neo-charm))
@@ -25,7 +25,7 @@ To learn more about contributing to the `neo-csharpcoe`, click [here](https://gi
 7. NEO Persistable Classes (NPC) Compiler ([neo-npcc](https://github.com/mwherman2000/neo-npcc))
 8. [NEO System Fees Table](http://docs.neo.org/en-us/sc/systemfees.html)
 9. NEO Persistable Classes V2.0 - An Efficient Entity-based Platform for enterprise application development using .NET/C#, C#.NEO and the NEO Blockchain ([neo-persistableclasses](https://github.com/mwherman2000/neo-persistableclasses))
-10. NEO Blockchain Toronto Meetup/Facebook/Twitter Bootstrap Kit ([neo-meetupbootstrap](https://github.com/mwherman2000/neo-meetupbootstrap))
+10. C#.NEO Examples ([examples-chsarp](https://github.com/mwherman2000/examples-csharp/blob/master/README.md))
 11. [Arrows](http://www.apcjones.com/arrows/#) Browser-based Entity Designer
 
 ## Keys
