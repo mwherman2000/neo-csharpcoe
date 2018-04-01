@@ -35,7 +35,8 @@ To learn more about contributing to the `neo-csharpcoe`, click [here](https://gi
 
 ## Important Tables
 
-* Contract Parameter Type Table [Reference](https://github.com/mwherman2000/neo-dotnetquickstart/blob/master/EN-us/09-deploytestsmartcontract.md) Step. 33.
+* Contract Parameter Type Table 
+* [Reference](https://github.com/mwherman2000/neo-dotnetquickstart/blob/master/EN-us/09-deploytestsmartcontract.md) Step. 33.
 
     Parameter/Return&nbsp;Type | Description |
     :--------|:---------------------- |
