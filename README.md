@@ -12,7 +12,7 @@ To learn more about contributing to the `neo-csharpcoe`, click [here](https://gi
 
 ## What is a COE?
 
->A center of excellence (CoE) is a team, a shared facility or an entity that provides leadership, best practices, research, support and/or training for a focus area. ... A center of excellence may also be aimed at revitalizing stalled initiatives. [Wikipedia](https://en.wikipedia.org/wiki/Center_of_excellence)
+>A center of excellence (CoE) is a team, a shared facility or an entity that provides leadership, best practices, research, support and/or training for a focus area. ... A center of excellence may also be aimed at revitalizing stalled initiatives. [[Wikipedia](https://en.wikipedia.org/wiki/Center_of_excellence)]
 
 ## `neo-csharpcoe` "Top 10" List of Resources for C#.NEO Developers
 
