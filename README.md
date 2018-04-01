@@ -52,6 +52,7 @@ To learn more about contributing to the `neo-csharpcoe`, click [here](https://gi
     Array|10|
     InteropInterface|f0|   
     Void|ff|
+    
     Table 9.1: NEO Smart Contract Parameter/Return Types [[NEOPARMTYPES](http://docs.neo.org/en-us/sc/tutorial/Parameter.html)]
 
 
