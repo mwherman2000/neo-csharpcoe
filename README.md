@@ -25,7 +25,7 @@ To learn more about contributing to the `neo-csharpcoe`, click [here](https://gi
 7. NEO Persistable Classes (NPC) Compiler ([neo-npcc](https://github.com/mwherman2000/neo-npcc))
 8. [NEO System Fees Table](http://docs.neo.org/en-us/sc/systemfees.html)
 9. NEO Persistable Classes V2.0 - An Efficient Entity-based Platform for enterprise application development using .NET/C#, C#.NEO and the NEO Blockchain ([neo-persistableclasses](https://github.com/mwherman2000/neo-persistableclasses))
-10. C#.NEO Examples ([examples-csharp](https://github.com/mwherman2000/examples-csharp/blob/master/README.md))
+10. C#.NEO Examples ([examples-csharp](https://github.com/mwherman2000/examples-csharp))
 11. [Arrows](http://www.apcjones.com/arrows/#) Browser-based Entity Designer
 
 ## Keys
