@@ -26,7 +26,8 @@ To learn more about contributing to the `neo-csharpcoe`, click [here](https://gi
 8. [NEO System Fees Table](http://docs.neo.org/en-us/sc/systemfees.html)
 9. NEO Persistable Classes V2.0 - An Efficient Entity-based Platform for enterprise application development using .NET/C#, C#.NEO and the NEO Blockchain ([neo-persistableclasses](https://github.com/mwherman2000/neo-persistableclasses))
 10. C#.NEO Examples ([examples-chsarp](https://github.com/mwherman2000/examples-csharp/blob/master/README.md))
-11. [Arrows](http://www.apcjones.com/arrows/#) Browser-based Entity Designer
+11. Nick Fujita, [NEO Smart Contracts: Invocation Triggers](https://medium.com/@nickfujita/neo-smart-contracts-invocation-triggers-490f945902e1)
+12. [Arrows](http://www.apcjones.com/arrows/#) Browser-based Entity Designer
 
 ## Keys
 
