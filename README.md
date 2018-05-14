@@ -1,6 +1,6 @@
-﻿# NEO Blockchain C# Developers Center of Excellence (neo-csharpcoe)
+﻿# .NET Blockchain C# Developers Center of Excellence (neo-csharpcoe)
 
-[NEO Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)
+[.NET Blockchain C# Developers Center of Excellence](https://github.com/mwherman2000/neo-csharpcoe/blob/master/README.md)
 
 ## Purpose
 
